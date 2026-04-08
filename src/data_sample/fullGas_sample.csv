@@ -1,0 +1,1001 @@
+Make,Model,Body,Mileage_km,Price,Year,Country,Condition,Fuel_Type,Drivetrain,Gearbox,Power_hp,Engine_Size_cc,Seats,Doors,Upholstery,Full_Service_History,Non_Smoker_Vehicle,Seller
+Dacia,Jogger,Station wagon,10,19945,2025.0,DE,Used,LPG,Front Wheel Drive,Manual,101,999.0,5.0,5.0,Cloth,True,True,Dealer
+Alfa Romeo,Giulia,Sedan,77693,25428,2020.0,ES,Used,Diesel,Front Wheel Drive,Automatic,211,1598.0,5.0,4.0,Cloth,False,False,Dealer
+Citroen,C3 Aircross,Off-Road/Pick-up,1,18900,2025.0,IT,Used,Gasoline,Front Wheel Drive,Manual,101,1199.0,5.0,5.0,Cloth,False,False,Dealer
+Dodge,Charger,Sedan,67000,36990,2022.0,DE,Used,Gasoline,Rear Wheel Drive,Automatic,492,6417.0,4.0,4.0,alcantara,False,True,Dealer
+Aston Martin,Vantage,Coupe,64000,99900,2012.0,ES,Used,Gasoline,Rear Wheel Drive,Manual,517,5935.0,2.0,2.0,Cloth,False,False,Dealer
+MG,EHS,Off-Road/Pick-up,42150,18990,2021.0,DE,Used,Electric/Gasoline,Front Wheel Drive,Automatic,162,1490.0,5.0,4.0,Part leather,False,False,Dealer
+Hyundai,KONA,Off-Road/Pick-up,77147,13600,2019.0,IT,Used,Gasoline,Front Wheel Drive,Manual,120,998.0,5.0,5.0,Cloth,False,False,Dealer
+Nissan,Qashqai,Off-Road/Pick-up,94000,15000,2019.0,IT,Used,Diesel,Front Wheel Drive,Automatic,116,1461.0,5.0,5.0,Other,False,False,Dealer
+Maserati,Ghibli,Sedan,248000,17500,2014.0,,Used,Diesel,Rear Wheel Drive,Automatic,275,2987.0,5.0,4.0,Full leather,False,False,PrivateSeller
+Nissan,Juke,Off-Road/Pick-up,0,24900,2020.0,IT,New,Electric/Gasoline,Front Wheel Drive,Automatic,143,1332.0,5.0,5.0,Cloth,False,False,Dealer
+Fiat,Doblo,Van,10,17900,2025.0,IT,Used,Diesel,Front Wheel Drive,Manual,102,1499.0,2.0,4.0,Other,False,False,Dealer
+Audi,Q2,Off-Road/Pick-up,108100,13890,2017.0,DE,Used,Gasoline,Front Wheel Drive,Manual,116,999.0,5.0,5.0,Cloth,True,False,Dealer
+Skoda,Superb,Station wagon,34291,27990,2022.0,DE,Used,Diesel,Front Wheel Drive,Automatic,150,1968.0,5.0,5.0,Cloth,True,True,Dealer
+Suzuki,Jimny,Off-Road/Pick-up,48015,28950,2022.0,BE,Used,Gasoline,4WD,Manual,102,1462.0,2.0,2.0,Part leather,True,False,Dealer
+Honda,Integra,Coupe,172300,25900,1998.0,IT,Used,Gasoline,Front Wheel Drive,Manual,190,1797.0,4.0,3.0,alcantara,False,False,Dealer
+Mazda,2,Compact,65437,11370,2017.0,DE,Used,Gasoline,Front Wheel Drive,Manual,90,1496.0,5.0,5.0,Cloth,True,True,Dealer
+Aston Martin,V8,Convertible,27530,99999,2014.0,BE,Used,Gasoline,Front Wheel Drive,Manual,436,4735.0,2.0,2.0,Full leather,False,False,Dealer
+BYD,Seal U,Off-Road/Pick-up,16900,29900,2025.0,IT,Used,Electric/Gasoline,Front Wheel Drive,Automatic,218,1498.0,5.0,5.0,Full leather,False,False,Dealer
+Lancia,Ypsilon,Sedan,81565,9000,2019.0,IT,Used,Gasoline,Front Wheel Drive,Manual,69,1242.0,4.0,5.0,Cloth,False,False,Dealer
+smart,forFour,Compact,85000,11000,2016.0,DE,Used,Gasoline,Front Wheel Drive,Automatic,71,999.0,4.0,5.0,Cloth,True,True,Dealer
+Peugeot,Rifter,Van,128450,14990,2019.0,AT,Used,Diesel,Front Wheel Drive,Manual,102,1499.0,5.0,5.0,Cloth,True,False,Dealer
+Alfa Romeo,Stelvio,Off-Road/Pick-up,90016,30890,2022.0,IT,Used,Diesel,4WD,Automatic,209,2143.0,5.0,5.0,Cloth,False,False,Dealer
+Dodge,RAM,Off-Road/Pick-up,47615,38990,2021.0,DE,Used,Gasoline,4WD,Automatic,401,5654.0,5.0,4.0,Full leather,True,True,Dealer
+Hyundai,SANTA FE,Off-Road/Pick-up,91300,33990,2022.0,DE,Used,Diesel,4WD,Automatic,201,2151.0,5.0,5.0,Full leather,True,True,Dealer
+Nissan,Qashqai,Off-Road/Pick-up,96028,18490,2021.0,BE,Used,Gasoline,Front Wheel Drive,Automatic,160,1300.0,5.0,5.0,Cloth,False,False,Dealer
+Alfa Romeo,Giulia,Sedan,99500,19895,2018.0,BE,Used,Gasoline,Rear Wheel Drive,Automatic,200,1995.0,5.0,4.0,Full leather,True,True,Dealer
+CUPRA,Formentor VZ5,Off-Road/Pick-up,15638,42590,2023.0,DE,Used,Gasoline,4WD,Automatic,390,2480.0,5.0,5.0,Full leather,True,True,Dealer
+Abarth,500,Compact,71000,12400,2014.0,IT,Used,Gasoline,Front Wheel Drive,Manual,135,1368.0,4.0,3.0,Cloth,True,True,Dealer
+Tesla,Model 3,Sedan,124331,21500,2021.0,,Used,Electric,Rear Wheel Drive,Automatic,339,1598.0,5.0,4.0,Full leather,False,True,PrivateSeller
+Renault,Captur,Off-Road/Pick-up,13928,19900,2025.0,IT,Used,Gasoline,Front Wheel Drive,Manual,91,999.0,5.0,5.0,Other,True,True,Dealer
+Jeep,Renegade,Off-Road/Pick-up,72000,15990,2022.0,IT,Used,Gasoline,Front Wheel Drive,Manual,120,999.0,5.0,5.0,Full leather,False,False,Dealer
+Land Rover,Discovery,Off-Road/Pick-up,137365,39990,2022.0,BE,Used,Diesel,4WD,Automatic,249,2997.0,7.0,5.0,Full leather,True,False,Dealer
+Volkswagen,Touran,Van,133231,9999,2010.0,DE,Used,Gasoline,Front Wheel Drive,Automatic,140,1390.0,5.0,4.0,Cloth,True,True,Dealer
+MG,ZS,Off-Road/Pick-up,97003,12990,2022.0,IT,Used,Gasoline,Front Wheel Drive,Manual,111,999.0,5.0,5.0,Cloth,False,False,Dealer
+Dodge,RAM,Off-Road/Pick-up,227000,10250,1999.0,,Used,LPG,Front Wheel Drive,Automatic,220,1598.0,6.0,4.0,Full leather,False,False,PrivateSeller
+Land Rover,Defender,Off-Road/Pick-up,222000,17999,2008.0,ES,Used,Diesel,4WD,Manual,122,2401.0,5.0,5.0,Cloth,False,False,Dealer
+smart,forFour,Sedan,115000,7990,2015.0,IT,Used,Gasoline,Rear Wheel Drive,Manual,90,899.0,4.0,5.0,Cloth,False,True,Dealer
+Volkswagen,Tiguan,Off-Road/Pick-up,120408,22939,2022.0,DE,Used,Diesel,Front Wheel Drive,Automatic,150,1968.0,5.0,5.0,Cloth,True,True,Dealer
+Land Rover,Range Rover Evoque,Off-Road/Pick-up,15797,47900,2024.0,BE,Used,Gasoline,Front Wheel Drive,Automatic,160,1498.0,5.0,5.0,Full leather,False,False,Dealer
+Tesla,Model Y,Off-Road/Pick-up,66472,31950,2022.0,DE,Used,Electric,4WD,Automatic,514,1598.0,5.0,5.0,Full leather,True,True,Dealer
+Toyota,Aygo X,Off-Road/Pick-up,33905,13900,2024.0,IT,Used,Gasoline,Front Wheel Drive,Manual,72,998.0,4.0,5.0,Cloth,False,False,Dealer
+Mercedes-Benz,E 300,Sedan,34021,57900,2024.0,BE,Used,Electric/Diesel,4WD,Automatic,197,1993.0,5.0,4.0,Cloth,False,False,Dealer
+SEAT,Ibiza,Compact,88205,6499,2013.0,NL,Used,Gasoline,Front Wheel Drive,Manual,105,1197.0,5.0,3.0,Cloth,True,False,Dealer
+Mazda,MX-5,Convertible,134445,11990,2012.0,DE,Used,Gasoline,Front Wheel Drive,Manual,126,1798.0,2.0,2.0,Full leather,True,True,Dealer
+Dacia,Duster,Off-Road/Pick-up,12182,21390,2025.0,DE,Used,Gasoline,Front Wheel Drive,Manual,131,1199.0,5.0,5.0,Cloth,False,False,Dealer
+Mercedes-Benz,CLA 45 AMG,Station wagon,101757,25950,2016.0,BE,Used,Gasoline,4WD,Automatic,381,1991.0,5.0,5.0,Full leather,True,True,Dealer
+Aston Martin,Vantage,Coupe,56200,68900,2008.0,,Used,Gasoline,Front Wheel Drive,Manual,427,1598.0,2.0,2.0,Cloth,False,False,PrivateSeller
+Hyundai,KONA,Compact,6962,20999,2020.0,BE,Used,Electric/Gasoline,Front Wheel Drive,Automatic,141,1580.0,5.0,5.0,Full leather,False,False,Dealer
+Kia,Ceed SW / cee'd SW,Station wagon,18621,17650,2023.0,BE,Used,Gasoline,Front Wheel Drive,Manual,120,1000.0,5.0,5.0,Cloth,False,False,Dealer
+Skoda,Karoq,Off-Road/Pick-up,59200,21419,2019.0,DE,Used,Gasoline,Front Wheel Drive,Automatic,150,1498.0,5.0,5.0,Cloth,True,True,Dealer
+Jaguar,F-Pace,Off-Road/Pick-up,119700,23990,2017.0,DE,Used,Diesel,4WD,Automatic,300,2993.0,5.0,4.0,Full leather,True,True,Dealer
+Volvo,V40,Compact,180448,9600,2012.0,NL,Used,Gasoline,Front Wheel Drive,Manual,179,1596.0,5.0,5.0,Part leather,True,False,Dealer
+Chevrolet,Silverado,Off-Road/Pick-up,49515,65378,2023.0,FR,Used,Gasoline,4WD,Automatic,424,6200.0,4.0,4.0,Full leather,False,False,Dealer
+Maserati,GranTurismo,Coupe,103574,47990,2010.0,FR,Used,Gasoline,Front Wheel Drive,Automatic,442,1598.0,5.0,2.0,Full leather,False,False,Dealer
+Dacia,Lodgy,Van,45000,13200,2020.0,IT,Used,Diesel,Front Wheel Drive,Manual,116,1461.0,7.0,5.0,Cloth,False,False,Dealer
+Volkswagen,T-Cross,Off-Road/Pick-up,28000,20880,2023.0,DE,Used,Gasoline,Front Wheel Drive,Automatic,110,999.0,5.0,5.0,Cloth,True,True,Dealer
+Hyundai,i20,Sedan,31000,13990,2022.0,DE,Used,Gasoline,Front Wheel Drive,Manual,101,998.0,5.0,5.0,Cloth,False,False,Dealer
+BMW,X3,Off-Road/Pick-up,150000,5999,2010.0,BE,Used,Diesel,Front Wheel Drive,Manual,136,1995.0,5.0,5.0,Cloth,False,False,Dealer
+Honda,Jazz,Compact,59848,14110,2020.0,DE,Used,Gasoline,Front Wheel Drive,Manual,102,1318.0,5.0,5.0,Cloth,False,True,Dealer
+BMW,X5,Off-Road/Pick-up,20056,39399,2017.0,DE,Used,Diesel,4WD,Automatic,381,2993.0,5.0,4.0,Full leather,True,True,Dealer
+MINI,One D,Sedan,140992,4980,2005.0,DE,Used,Diesel,Front Wheel Drive,Manual,88,1364.0,4.0,3.0,Full leather,False,True,Dealer
+Volkswagen,Arteon,Sedan,49985,24480,2020.0,DE,Used,Gasoline,Front Wheel Drive,Automatic,190,1984.0,5.0,4.0,Full leather,True,True,Dealer
+Bentley,Continental GT,Coupe,128000,41900,2005.0,FR,Used,Gasoline,4WD,Automatic,560,1598.0,4.0,2.0,Full leather,True,True,Dealer
+Audi,A3,Compact,171770,14800,2018.0,NL,Used,Electric/Gasoline,Front Wheel Drive,Automatic,204,1395.0,5.0,5.0,Cloth,False,False,Dealer
+Lexus,UX 300e,Off-Road/Pick-up,20179,25989,2022.0,DE,Used,Electric,Front Wheel Drive,Automatic,204,1598.0,5.0,5.0,Full leather,True,True,Dealer
+Nissan,X-Trail,Off-Road/Pick-up,81761,13500,2016.0,DE,Used,Diesel,Front Wheel Drive,Automatic,131,1598.0,5.0,5.0,Cloth,False,True,Dealer
+MG,ZS,Off-Road/Pick-up,17443,15354,2025.0,ES,Used,Gasoline,Front Wheel Drive,Manual,106,1598.0,5.0,5.0,Cloth,False,False,Dealer
+Kia,XCeed,Off-Road/Pick-up,56200,20889,2019.0,DE,Used,Gasoline,Front Wheel Drive,Automatic,204,1591.0,5.0,5.0,Part leather,True,True,Dealer
+Maserati,Quattroporte,Sedan,121471,26945,2016.0,NL,Used,Diesel,Rear Wheel Drive,Automatic,275,2987.0,5.0,4.0,Full leather,True,False,Dealer
+Abarth,500,Coupe,50000,14849,2018.0,DE,Used,Gasoline,Front Wheel Drive,Manual,145,1368.0,4.0,2.0,alcantara,True,True,Dealer
+Dacia,Duster,Off-Road/Pick-up,33900,17980,2021.0,DE,Used,Gasoline,Front Wheel Drive,Manual,150,1332.0,5.0,5.0,Cloth,False,False,Dealer
+Aston Martin,Vantage,Coupe,26000,59900,2007.0,,Used,Gasoline,Front Wheel Drive,Automatic,385,4300.0,2.0,2.0,Full leather,True,True,PrivateSeller
+Audi,Cabriolet,Convertible,93450,17990,2018.0,DE,Used,Diesel,Front Wheel Drive,Manual,150,1968.0,4.0,2.0,Velour,False,True,Dealer
+Lancia,Ypsilon,Sedan,130000,6900,2014.0,IT,Used,Gasoline,Front Wheel Drive,Manual,69,1242.0,5.0,5.0,Cloth,True,True,Dealer
+Mazda,2,Compact,107827,11490,2017.0,NL,Used,Gasoline,Front Wheel Drive,Manual,90,1496.0,5.0,5.0,Cloth,True,True,Dealer
+Toyota,RAV 4,Off-Road/Pick-up,81706,36890,2022.0,DE,Used,Electric/Gasoline,4WD,Automatic,223,2487.0,5.0,5.0,Full leather,False,False,Dealer
+Land Rover,Defender,Off-Road/Pick-up,62000,38500,2013.0,ES,Used,Diesel,4WD,Manual,122,2198.0,5.0,5.0,Cloth,False,False,Dealer
+Alfa Romeo,Giulietta,Sedan,137000,11500,2017.0,IT,Used,Diesel,Front Wheel Drive,Manual,120,1598.0,5.0,5.0,Cloth,True,True,Dealer
+MINI,Cooper Clubman,Station wagon,175900,4900,2008.0,NL,Used,Gasoline,Front Wheel Drive,Manual,120,1598.0,4.0,5.0,Part leather,True,False,Dealer
+Maserati,Levante,Off-Road/Pick-up,278000,20500,2018.0,IT,Used,Diesel,4WD,Semi-automatic,250,2987.0,5.0,5.0,Full leather,False,False,Dealer
+Dodge,RAM,Off-Road/Pick-up,120000,33777,2016.0,DE,Used,Gasoline,4WD,Automatic,401,5654.0,5.0,4.0,Part leather,True,True,Dealer
+MINI,One D,Sedan,175000,7700,2014.0,IT,Used,Diesel,Front Wheel Drive,Manual,95,1496.0,4.0,3.0,Cloth,False,True,Dealer
+Fiat,Panda,Sedan,10,15900,2025.0,IT,Used,Electric/Gasoline,Front Wheel Drive,Manual,69,999.0,4.0,5.0,Cloth,False,False,Dealer
+BYD,Dolphin,Compact,1500,31530,2025.0,DE,Used,Electric,Front Wheel Drive,Automatic,204,1598.0,5.0,5.0,Full leather,True,True,Dealer
+Fiat,500C,Convertible,39902,13900,2021.0,NL,Used,Electric/Gasoline,Front Wheel Drive,Manual,69,999.0,4.0,2.0,Part leather,True,False,Dealer
+Opel,Grandland,Off-Road/Pick-up,10,34490,2025.0,DE,Used,Gasoline,Front Wheel Drive,Automatic,145,1598.0,5.0,5.0,Cloth,True,True,Dealer
+BYD,Seal U,Off-Road/Pick-up,5,34490,2025.0,BE,Used,Electric/Gasoline,Front Wheel Drive,Automatic,218,1500.0,5.0,5.0,Cloth,False,False,Dealer
+Dacia,Duster,Off-Road/Pick-up,0,17900,2020.0,IT,New,LPG,Front Wheel Drive,Automatic,120,1199.0,5.0,5.0,Cloth,False,False,Dealer
+Jaguar,F-Pace,Off-Road/Pick-up,67000,48990,2019.0,DE,Used,Gasoline,4WD,Automatic,551,5000.0,5.0,4.0,Full leather,True,True,Dealer
+Mitsubishi,Outlander,Off-Road/Pick-up,70000,20900,2021.0,IT,Used,LPG,Front Wheel Drive,Automatic,150,1998.0,5.0,5.0,Part leather,True,True,Dealer
+Maserati,Levante,Off-Road/Pick-up,143400,29900,2021.0,IT,Used,Diesel,4WD,Automatic,250,2987.0,5.0,5.0,Full leather,False,False,Dealer
+Tesla,Model 3,Compact,87864,24445,2020.0,NL,Used,Electric,4WD,Automatic,351,1598.0,5.0,5.0,Full leather,True,False,Dealer
+Alfa Romeo,Junior,Off-Road/Pick-up,1,28900,2025.0,IT,Used,Electric/Gasoline,Front Wheel Drive,Automatic,145,1199.0,5.0,5.0,Cloth,False,False,Dealer
+Corvette,C6 Coupe,Coupe,49400,49900,2010.0,DE,Used,Gasoline,Rear Wheel Drive,Automatic,436,6162.0,2.0,2.0,Full leather,True,True,Dealer
+SEAT,Arona,Off-Road/Pick-up,31953,15890,2022.0,IT,Used,Gasoline,Front Wheel Drive,Manual,95,999.0,5.0,5.0,Cloth,False,False,Dealer
+Toyota,GT86,Coupe,26682,27990,2020.0,DE,Used,Gasoline,Front Wheel Drive,Manual,200,1998.0,4.0,3.0,alcantara,True,True,Dealer
+BYD,Seal,Sedan,10,35480,2020.0,DE,New,Electric,Rear Wheel Drive,Automatic,231,1598.0,5.0,4.0,Full leather,True,True,Dealer
+Honda,HR-V,Off-Road/Pick-up,26500,24990,2024.0,IT,Used,Electric/Gasoline,Front Wheel Drive,Automatic,107,1498.0,5.0,5.0,Other,True,True,Dealer
+Volkswagen,Golf,Sedan,116000,16290,2020.0,BE,Used,Gasoline,Front Wheel Drive,Manual,131,1498.0,5.0,5.0,Cloth,True,False,Dealer
+Volkswagen,Golf,Sedan,47800,14750,2017.0,BE,Used,Gasoline,Front Wheel Drive,Manual,110,999.0,5.0,5.0,Cloth,False,True,Dealer
+BMW,750,Sedan,78000,24990,2009.0,DE,Used,Gasoline,Rear Wheel Drive,Automatic,408,440.0,5.0,4.0,Full leather,False,True,Dealer
+Audi,A6,Station wagon,139000,24988,2022.0,DE,Used,Diesel,Front Wheel Drive,Automatic,204,1968.0,5.0,5.0,Cloth,False,False,Dealer
+Toyota,C-HR,Off-Road/Pick-up,101750,14990,2019.0,IT,Used,Electric/Gasoline,Front Wheel Drive,Automatic,98,1798.0,5.0,5.0,Cloth,True,True,Dealer
+Alfa Romeo,Giulietta,Sedan,39999,14300,2016.0,IT,Used,LPG,Front Wheel Drive,Manual,120,1368.0,5.0,5.0,Part leather,True,True,Dealer
+Maserati,Ghibli,Sedan,92000,36300,2019.0,,Used,Diesel,Rear Wheel Drive,Automatic,275,2987.0,5.0,4.0,Full leather,True,False,PrivateSeller
+Volvo,V60,Station wagon,80958,29900,2021.0,BE,Used,Electric/Gasoline,4WD,Automatic,341,1969.0,5.0,5.0,Cloth,False,False,Dealer
+Fiat,600,Off-Road/Pick-up,10,25900,2025.0,DE,Used,Electric/Gasoline,Front Wheel Drive,Automatic,110,1199.0,5.0,5.0,Full leather,True,True,Dealer
+SEAT,Tarraco,Off-Road/Pick-up,87100,33880,2022.0,AT,Used,Diesel,Front Wheel Drive,Automatic,150,1968.0,5.0,5.0,Cloth,True,False,Dealer
+Aston Martin,DB7,Coupe,115000,35000,2000.0,,Used,Gasoline,Front Wheel Drive,Automatic,420,5935.0,4.0,2.0,Cloth,False,False,PrivateSeller
+Audi,A3,Sedan,17319,22570,2023.0,DE,Used,Gasoline,Front Wheel Drive,Manual,110,999.0,5.0,5.0,Cloth,True,True,Dealer
+Abarth,Punto Supersport,Sedan,136500,11900,2012.0,,Used,Gasoline,Front Wheel Drive,Manual,179,1400.0,5.0,3.0,Cloth,True,True,PrivateSeller
+Jeep,Avenger,Off-Road/Pick-up,18900,18950,2024.0,IT,Used,Gasoline,Front Wheel Drive,Manual,101,1199.0,5.0,5.0,Cloth,False,False,Dealer
+CUPRA,Terramar,Off-Road/Pick-up,4727,39930,2025.0,DE,Used,Gasoline,4WD,Automatic,204,1984.0,5.0,5.0,Cloth,True,True,Dealer
+Hyundai,i30,Sedan,27815,35990,2024.0,DE,Used,Gasoline,Front Wheel Drive,Automatic,280,1998.0,5.0,5.0,alcantara,True,True,Dealer
+Chevrolet,Suburban,Off-Road/Pick-up,99000,22980,1989.0,DE,Used,Gasoline,Rear Wheel Drive,Automatic,230,7319.0,7.0,5.0,Cloth,False,False,Dealer
+MINI,Cooper S,Coupe,17980,33200,2024.0,IT,Used,Gasoline,Front Wheel Drive,Automatic,218,1998.0,4.0,3.0,Full leather,True,True,Dealer
+Kia,EV3,Off-Road/Pick-up,13170,38700,2024.0,DE,Used,Electric,Front Wheel Drive,Automatic,204,1598.0,5.0,5.0,Full leather,True,True,Dealer
+Honda,HR-V,Off-Road/Pick-up,5,33970,2020.0,DE,New,Electric/Gasoline,Front Wheel Drive,Automatic,131,1498.0,5.0,5.0,Part leather,False,False,Dealer
+Land Rover,Defender,Off-Road/Pick-up,37254,67880,2021.0,DE,Used,Electric/Gasoline,4WD,Automatic,300,1997.0,5.0,5.0,Cloth,False,False,Dealer
+Suzuki,Ignis,Compact,10,17990,2025.0,DE,Used,Electric/Gasoline,Front Wheel Drive,Manual,83,1197.0,4.0,4.0,Cloth,False,False,Dealer
+Toyota,Corolla Cross,Off-Road/Pick-up,82828,26500,2023.0,IT,Used,Electric/Gasoline,Front Wheel Drive,Automatic,140,1798.0,5.0,5.0,Cloth,False,False,Dealer
+Volkswagen,Crafter,Van,149999,10300,2012.0,DE,Used,Diesel,Rear Wheel Drive,Manual,136,1968.0,3.0,4.0,Part leather,False,False,Dealer
+Jeep,Renegade,Off-Road/Pick-up,47000,16490,2023.0,IT,Used,Electric/Gasoline,Front Wheel Drive,Automatic,131,1469.0,5.0,5.0,Cloth,False,False,Dealer
+Volvo,XC60,Off-Road/Pick-up,82292,29890,2018.0,DE,Used,Gasoline,4WD,Automatic,250,1969.0,5.0,5.0,Part leather,False,True,Dealer
+Dodge,Challenger,Coupe,79984,36890,2021.0,DE,Used,Gasoline,Rear Wheel Drive,Automatic,492,6400.0,5.0,2.0,alcantara,True,True,Dealer
+BYD,Seal,Sedan,17500,41490,2025.0,DE,Used,Electric,Front Wheel Drive,Automatic,530,1598.0,5.0,5.0,Full leather,True,True,Dealer
+Lancia,MUSA,Van,71000,6490,2011.0,IT,Used,Gasoline,Front Wheel Drive,Manual,95,1368.0,5.0,5.0,Cloth,False,False,Dealer
+smart,forTwo,Compact,61000,5999,2014.0,DE,Used,Gasoline,Rear Wheel Drive,Automatic,71,999.0,2.0,2.0,Cloth,True,True,Dealer
+Jaguar,F-Pace,Off-Road/Pick-up,24500,69900,2024.0,FR,Used,Gasoline,Front Wheel Drive,Automatic,409,1997.0,5.0,5.0,Cloth,False,False,Dealer
+Corvette,C3,Convertible,129000,59000,1972.0,,Used,Gasoline,Rear Wheel Drive,Automatic,420,7440.0,2.0,2.0,Part leather,False,False,PrivateSeller
+Bentley,Continental GT,Coupe,215569,24950,2004.0,NL,Used,Gasoline,4WD,Automatic,562,5998.0,4.0,2.0,Full leather,False,False,Dealer
+Citroen,C3,Sedan,28659,12490,2023.0,IT,Used,Gasoline,Front Wheel Drive,Manual,110,1199.0,5.0,5.0,Cloth,True,True,Dealer
+BMW,X2,Off-Road/Pick-up,58500,22900,2022.0,IT,Used,Electric/Gasoline,4WD,Automatic,125,1499.0,5.0,5.0,Cloth,False,False,Dealer
+Mercedes-Benz,C 180,Station wagon,209251,8000,2011.0,NL,Used,Gasoline,Rear Wheel Drive,Manual,156,1796.0,5.0,5.0,Part leather,True,False,Dealer
+Hyundai,NEXO,Off-Road/Pick-up,161,25990,2023.0,DE,Used,Hydrogen,Front Wheel Drive,Automatic,163,1598.0,5.0,5.0,Full leather,False,True,Dealer
+Volkswagen,Passat,Sedan,101000,2000,1981.0,IT,Used,Gasoline,Front Wheel Drive,Manual,88,1598.0,5.0,5.0,Cloth,False,False,Dealer
+Volvo,XC40,Off-Road/Pick-up,107590,18390,2018.0,DE,Used,Diesel,Front Wheel Drive,Manual,150,1969.0,5.0,5.0,Cloth,True,False,Dealer
+Lexus,GS 450h,Sedan,272855,11599,2012.0,DE,Used,Electric/Gasoline,Rear Wheel Drive,Automatic,345,3456.0,5.0,4.0,Full leather,False,False,Dealer
+Lancia,Ypsilon,Sedan,125000,8499,2022.0,IT,Used,Electric/Gasoline,Front Wheel Drive,Manual,69,999.0,5.0,5.0,Cloth,False,False,Dealer
+CUPRA,Formentor,Off-Road/Pick-up,45886,24490,2022.0,IT,Used,Gasoline,Front Wheel Drive,Automatic,150,1498.0,5.0,5.0,Other,False,False,Dealer
+MG,ZS,Off-Road/Pick-up,8,13950,2025.0,IT,Used,Gasoline,Front Wheel Drive,Manual,106,1500.0,5.0,5.0,Cloth,False,False,Dealer
+Citroen,C4,Sedan,35,21470,2025.0,DE,Used,Gasoline,Front Wheel Drive,Automatic,131,1199.0,5.0,4.0,Cloth,True,True,Dealer
+Mitsubishi,ASX,Off-Road/Pick-up,100484,15600,2020.0,DE,Used,Gasoline,Front Wheel Drive,Manual,150,1598.0,5.0,5.0,Cloth,True,True,Dealer
+Chevrolet,Orlando,Station wagon,64000,9599,2013.0,DE,Used,Gasoline,Front Wheel Drive,Automatic,141,1796.0,7.0,5.0,Cloth,True,True,Dealer
+Kia,Stonic,Off-Road/Pick-up,10,24700,2025.0,IT,Used,Electric/Gasoline,Front Wheel Drive,Manual,116,998.0,5.0,5.0,Part leather,False,False,Dealer
+Audi,Q4 e-tron,Off-Road/Pick-up,20399,31490,2023.0,DE,Used,Electric,Rear Wheel Drive,Automatic,204,1598.0,5.0,5.0,Cloth,False,True,Dealer
+Mazda,CX-3,Off-Road/Pick-up,177513,14950,2018.0,NL,Used,Gasoline,Front Wheel Drive,Automatic,120,1998.0,5.0,5.0,Cloth,False,False,Dealer
+Citroen,C3,Sedan,12089,14990,2023.0,BE,Used,Diesel,Front Wheel Drive,Manual,102,1499.0,1.0,5.0,Cloth,True,True,Dealer
+SEAT,Ibiza,Compact,15248,16750,2025.0,DE,Used,Gasoline,Front Wheel Drive,Manual,95,999.0,5.0,5.0,Cloth,False,True,Dealer
+Alfa Romeo,Stelvio,Off-Road/Pick-up,168500,20500,2021.0,IT,Used,Diesel,4WD,Automatic,190,2143.0,5.0,5.0,Part leather,True,True,Dealer
+Audi,Q3,Off-Road/Pick-up,29500,26209,2020.0,DE,Used,Gasoline,Front Wheel Drive,Manual,150,1498.0,5.0,5.0,Part leather,False,True,Dealer
+Skoda,Yeti,Other,55000,12700,2015.0,IT,Used,Gasoline,4WD,Manual,160,1598.0,5.0,5.0,Cloth,True,False,Dealer
+Toyota,C-HR,Off-Road/Pick-up,12943,31900,2024.0,IT,Used,Electric/Gasoline,Front Wheel Drive,Automatic,223,1987.0,5.0,5.0,Full leather,False,False,Dealer
+Alfa Romeo,Stelvio,Off-Road/Pick-up,81458,23980,2018.0,DE,Used,Gasoline,4WD,Automatic,280,1995.0,5.0,5.0,Full leather,False,False,Dealer
+Alfa Romeo,Tonale,Off-Road/Pick-up,36650,23800,2024.0,DE,Used,Gasoline,Front Wheel Drive,Automatic,160,1469.0,5.0,5.0,Cloth,True,True,Dealer
+Opel,GT,Off-Road/Pick-up,9000,22900,2009.0,DE,Used,Gasoline,Rear Wheel Drive,Manual,264,1998.0,2.0,2.0,Full leather,False,False,Dealer
+Lancia,Ypsilon,Sedan,120000,4500,2008.0,IT,Used,Diesel,Front Wheel Drive,Manual,90,1248.0,4.0,3.0,Cloth,True,False,Dealer
+Mercedes-Benz,A 250,Sedan,136762,14499,2012.0,DE,Used,Gasoline,Front Wheel Drive,Automatic,211,1991.0,5.0,4.0,Full leather,True,True,Dealer
+Hyundai,SANTA FE,Off-Road/Pick-up,10,63990,2020.0,DE,New,Electric/Gasoline,4WD,Automatic,215,1598.0,5.0,5.0,Full leather,True,True,Dealer
+Mercedes-Benz,SLK 200,Convertible,116679,4999,2000.0,NL,Used,Gasoline,Rear Wheel Drive,Automatic,136,1998.0,2.0,2.0,Cloth,True,False,Dealer
+Ford,Focus,Off-Road/Pick-up,78575,15250,2023.0,IT,Used,Electric/Gasoline,Front Wheel Drive,Manual,125,999.0,5.0,5.0,Cloth,False,True,Dealer
+Suzuki,Ignis,Off-Road/Pick-up,81942,11800,2020.0,IT,Used,Electric/Gasoline,Front Wheel Drive,Manual,83,1197.0,4.0,5.0,Cloth,True,True,Dealer
+Lexus,RX 450h,Off-Road/Pick-up,276352,12950,2012.0,NL,Used,Electric/Gasoline,4WD,Automatic,249,3456.0,5.0,5.0,Full leather,True,False,Dealer
+Toyota,Yaris,Compact,57900,11930,2014.0,DE,Used,Electric/Gasoline,Front Wheel Drive,Automatic,1,1598.0,5.0,5.0,Cloth,True,True,Dealer
+BYD,Seal U,Off-Road/Pick-up,0,31490,2020.0,DE,New,Electric/Gasoline,Front Wheel Drive,Automatic,218,1598.0,5.0,5.0,Other,True,True,Dealer
+Renault,Megane,Station wagon,47659,14692,2022.0,DE,Used,Gasoline,Front Wheel Drive,Manual,114,999.0,5.0,5.0,Cloth,True,True,Dealer
+Maserati,Ghibli,Sedan,87288,26600,2016.0,IT,Used,Diesel,Rear Wheel Drive,Automatic,250,2987.0,5.0,4.0,Full leather,False,False,Dealer
+MINI,Cooper S Coupe,Coupe,95500,11500,2011.0,BE,Used,Gasoline,Front Wheel Drive,Automatic,184,1598.0,2.0,2.0,Part leather,True,True,Dealer
+Jaguar,F-Pace,Off-Road/Pick-up,104000,30900,2020.0,ES,Used,Diesel,4WD,Automatic,179,1999.0,5.0,5.0,Cloth,False,False,Dealer
+Opel,Astra,Sedan,15049,25950,2024.0,DE,Used,Electric/Gasoline,Front Wheel Drive,Automatic,179,1598.0,5.0,5.0,Cloth,True,False,Dealer
+Lancia,Ypsilon,Sedan,0,14000,2020.0,IT,New,Electric,Front Wheel Drive,Automatic,84,1598.0,5.0,5.0,Cloth,False,False,Dealer
+Jeep,Renegade,Off-Road/Pick-up,52800,15490,2023.0,IT,Used,Gasoline,Front Wheel Drive,Manual,120,999.0,5.0,5.0,Other,False,False,Dealer
+Tesla,Model Y,Off-Road/Pick-up,37293,33500,2022.0,,Used,Electric,4WD,Automatic,514,1598.0,5.0,5.0,Other,True,True,PrivateSeller
+Peugeot,3008,Off-Road/Pick-up,99780,13495,2019.0,BE,Used,Diesel,Front Wheel Drive,Manual,131,1499.0,5.0,5.0,Cloth,True,True,Dealer
+Toyota,Corolla Cross,Off-Road/Pick-up,33050,30990,2023.0,BE,Used,Electric/Gasoline,Front Wheel Drive,Automatic,152,1987.0,5.0,5.0,Cloth,True,True,Dealer
+Opel,Astra,Sedan,47700,12950,2021.0,DE,Used,Gasoline,Front Wheel Drive,Manual,110,1199.0,5.0,5.0,Cloth,True,True,Dealer
+Jaguar,I-Pace,Off-Road/Pick-up,29600,29900,2019.0,FR,Used,Electric,Front Wheel Drive,Automatic,407,1598.0,5.0,5.0,Cloth,False,False,Dealer
+Mercedes-Benz,GLB 200,Off-Road/Pick-up,6800,42900,2024.0,IT,Used,Diesel,Front Wheel Drive,Semi-automatic,150,1950.0,5.0,5.0,Other,False,False,Dealer
+Alfa Romeo,Giulia,Sedan,16,48800,2025.0,IT,Used,Diesel,4WD,Automatic,209,2143.0,5.0,4.0,Part leather,False,False,Dealer
+Nissan,X-Trail,Off-Road/Pick-up,7,38490,2024.0,BE,Used,Electric/Gasoline,Front Wheel Drive,Automatic,158,1500.0,5.0,5.0,Part leather,False,True,Dealer
+SEAT,Ateca,Off-Road/Pick-up,21750,21450,2019.0,DE,Used,Gasoline,Front Wheel Drive,Automatic,150,1498.0,5.0,5.0,Cloth,False,False,Dealer
+Honda,Civic,Sedan,259000,3500,2007.0,,Used,Gasoline,Front Wheel Drive,Automatic,140,1798.0,5.0,5.0,Cloth,False,False,PrivateSeller
+Toyota,Corolla Cross,Off-Road/Pick-up,17069,30990,2024.0,DE,Used,Electric/Gasoline,Front Wheel Drive,Automatic,197,1987.0,5.0,5.0,Cloth,True,True,Dealer
+Alfa Romeo,Brera,Coupe,104200,19900,2010.0,IT,Used,Gasoline,Front Wheel Drive,Manual,200,1742.0,4.0,3.0,Full leather,False,False,Dealer
+Alfa Romeo,Tonale,Off-Road/Pick-up,43648,28945,2023.0,NL,Used,Electric/Gasoline,4WD,Automatic,181,1469.0,5.0,5.0,Full leather,True,False,Dealer
+Porsche,Cayenne,Coupe,99000,67000,2020.0,IT,Used,Electric/Gasoline,4WD,Semi-automatic,462,2995.0,5.0,5.0,Full leather,True,True,Dealer
+Land Rover,Range Rover Sport,Off-Road/Pick-up,158351,31500,2019.0,BE,Used,Electric/Gasoline,4WD,Automatic,300,1997.0,5.0,5.0,Full leather,True,True,Dealer
+Peugeot,2008,Off-Road/Pick-up,20262,20950,2024.0,DE,Used,Electric,Front Wheel Drive,Automatic,136,1598.0,5.0,5.0,Cloth,False,True,Dealer
+Honda,CR-V,Off-Road/Pick-up,229890,2490,2005.0,DE,Used,Diesel,4WD,Manual,140,2204.0,5.0,4.0,Cloth,True,False,Dealer
+Fiat,Panda,Compact,36950,11900,2022.0,IT,Used,LPG,Front Wheel Drive,Manual,69,1242.0,4.0,5.0,Cloth,False,False,Dealer
+Honda,CR-V,Off-Road/Pick-up,136000,21980,2019.0,,Used,Electric/Gasoline,4WD,Automatic,145,1993.0,5.0,5.0,Cloth,True,True,PrivateSeller
+MINI,Cooper,Sedan,34000,19499,2022.0,IT,Used,Gasoline,Front Wheel Drive,Manual,136,1499.0,4.0,3.0,Cloth,False,False,Dealer
+Volvo,XC90,Off-Road/Pick-up,75792,44900,2021.0,NL,Used,Electric/Gasoline,4WD,Automatic,392,1969.0,7.0,5.0,Full leather,True,False,Dealer
+Volvo,S60,Sedan,24463,41900,2024.0,BE,Used,Electric/Gasoline,4WD,Automatic,455,1969.0,5.0,4.0,Full leather,False,False,Dealer
+Peugeot,406,Coupe,287134,2950,2000.0,NL,Used,Gasoline,Front Wheel Drive,Automatic,207,2946.0,4.0,2.0,Velour,False,False,Dealer
+Nissan,X-Trail,Off-Road/Pick-up,51888,27900,2023.0,IT,Used,Electric/Gasoline,4WD,Automatic,158,1497.0,5.0,5.0,Cloth,False,False,Dealer
+Rolls-Royce,Cloud,Other,19489,89950,1965.0,NL,Used,LPG,Rear Wheel Drive,Automatic,200,1598.0,4.0,4.0,Full leather,False,False,Dealer
+Land Rover,Range Rover Sport,Off-Road/Pick-up,30714,89950,2021.0,BE,Used,Gasoline,4WD,Automatic,575,5000.0,5.0,5.0,Full leather,True,True,Dealer
+Kia,Sportage,Off-Road/Pick-up,84183,13999,2016.0,BE,Used,Diesel,Front Wheel Drive,Manual,141,1700.0,5.0,5.0,Cloth,False,False,Dealer
+MG,MG4,Sedan,17765,20890,2024.0,IT,Used,Electric,Front Wheel Drive,Automatic,73,1598.0,5.0,5.0,Cloth,False,True,Dealer
+Tesla,Model S,Compact,182336,23950,2018.0,NL,Used,Electric,4WD,Automatic,427,1598.0,5.0,5.0,Full leather,True,False,Dealer
+Maserati,Grecale,Off-Road/Pick-up,32346,56900,2022.0,IT,Used,Electric/Gasoline,4WD,Automatic,300,1995.0,5.0,5.0,Full leather,False,False,Dealer
+Audi,A4 allroad,Station wagon,93313,29950,2021.0,BE,Used,Diesel,4WD,Automatic,204,1968.0,5.0,5.0,Cloth,True,True,Dealer
+Hyundai,TUCSON,Off-Road/Pick-up,87277,15990,2017.0,DE,Used,Gasoline,Front Wheel Drive,Manual,132,1591.0,5.0,5.0,Cloth,True,True,Dealer
+MINI,Cooper S,Sedan,20490,29587,2024.0,DE,Used,Gasoline,Front Wheel Drive,Automatic,204,1998.0,4.0,3.0,Cloth,True,True,Dealer
+Jeep,Cherokee,Off-Road/Pick-up,111200,13000,2015.0,IT,Used,Diesel,4WD,Automatic,200,2184.0,5.0,5.0,Full leather,True,True,Dealer
+Abarth,595,Compact,90,35200,2022.0,IT,Used,Gasoline,Front Wheel Drive,Manual,165,1368.0,5.0,3.0,Full leather,False,False,Dealer
+Skoda,Kodiaq,Off-Road/Pick-up,42144,27190,2021.0,AT,Used,Gasoline,Front Wheel Drive,Manual,150,1498.0,5.0,5.0,Part leather,False,True,Dealer
+Volvo,EX30,Off-Road/Pick-up,860,33780,2025.0,DE,Used,Electric,Rear Wheel Drive,Automatic,272,1598.0,5.0,5.0,Cloth,True,False,Dealer
+Jaguar,F-Type,Coupe,31224,74990,2022.0,BE,Used,Gasoline,4WD,Automatic,450,5000.0,2.0,2.0,Full leather,False,False,Dealer
+Bentley,Flying Spur,Sedan,73000,29990,2007.0,,Used,Gasoline,4WD,Automatic,559,5998.0,5.0,4.0,Full leather,False,True,PrivateSeller
+Mitsubishi,Colt,Compact,124000,3000,2011.0,DE,Used,Gasoline,Front Wheel Drive,Manual,95,1332.0,5.0,2.0,Cloth,True,False,Dealer
+BMW,118,Sedan,15000,26900,2023.0,IT,Used,Gasoline,Front Wheel Drive,Automatic,136,1499.0,5.0,5.0,Part leather,True,False,Dealer
+Bentley,Continental,Coupe,97440,69900,1996.0,DE,Used,Gasoline,Rear Wheel Drive,Automatic,389,6761.0,4.0,2.0,Cloth,False,False,Dealer
+Mitsubishi,Space Star,Compact,19050,12900,2021.0,DE,Used,Gasoline,Front Wheel Drive,Manual,80,1598.0,5.0,5.0,Cloth,True,False,Dealer
+Hyundai,SANTA FE,Off-Road/Pick-up,86700,31970,2021.0,DE,Used,Diesel,4WD,Automatic,201,2151.0,5.0,5.0,Full leather,False,False,Dealer
+Honda,Accord,Station wagon,231315,7950,2009.0,NL,Used,Gasoline,Front Wheel Drive,Automatic,156,1997.0,5.0,5.0,Cloth,False,False,Dealer
+Mercedes-Benz,CLA 200,Coupe,39558,29965,2020.0,DE,Used,Gasoline,Front Wheel Drive,Automatic,163,1332.0,5.0,4.0,alcantara,True,True,Dealer
+Suzuki,Liana,Compact,93000,2990,2006.0,DE,Used,Gasoline,Front Wheel Drive,Manual,103,1598.0,5.0,5.0,Cloth,True,True,Dealer
+Volvo,V90,Station wagon,56450,34989,2021.0,DE,Used,Electric/Gasoline,4WD,Automatic,392,1969.0,5.0,5.0,Full leather,True,True,Dealer
+Rolls-Royce,Cloud,Sedan,47300,68000,1960.0,IT,Used,Gasoline,Rear Wheel Drive,Automatic,185,6230.0,4.0,4.0,Full leather,False,False,Dealer
+Porsche,Cayenne,Off-Road/Pick-up,22154,99990,2024.0,BE,Used,Electric/Gasoline,4WD,Automatic,305,2995.0,5.0,5.0,Full leather,True,True,Dealer
+MG,ZS,Off-Road/Pick-up,0,21700,2020.0,IT,New,Electric/Gasoline,Front Wheel Drive,Automatic,102,1598.0,5.0,5.0,Other,False,False,Dealer
+Mitsubishi,Space Star,Compact,175742,3245,2014.0,NL,Used,Gasoline,Front Wheel Drive,Manual,71,999.0,5.0,5.0,Cloth,True,False,Dealer
+Dodge,Nitro,Off-Road/Pick-up,139000,7900,2008.0,IT,Used,Diesel,Front Wheel Drive,Automatic,177,2768.0,5.0,5.0,Cloth,False,True,Dealer
+Citroen,C5 Aircross,Off-Road/Pick-up,500,25980,2025.0,DE,Used,Electric/Gasoline,Front Wheel Drive,Automatic,145,1199.0,5.0,5.0,alcantara,True,True,Dealer
+Porsche,Panamera,Sedan,188000,30990,2015.0,DE,Used,Gasoline,4WD,Automatic,441,4806.0,4.0,4.0,Full leather,True,False,Dealer
+Volvo,XC60,Off-Road/Pick-up,61100,34930,2022.0,DE,Used,Gasoline,Front Wheel Drive,Automatic,197,1969.0,5.0,4.0,Full leather,True,True,Dealer
+Chevrolet,Aveo,Sedan,84000,5490,2012.0,BE,Used,Gasoline,Front Wheel Drive,Manual,116,1598.0,5.0,5.0,Cloth,False,False,Dealer
+Lancia,MUSA,Station wagon,224,1200,2006.0,,Used,Diesel,Front Wheel Drive,Manual,69,1248.0,5.0,5.0,Cloth,False,False,PrivateSeller
+SEAT,Arona,Off-Road/Pick-up,8100,18440,2024.0,ES,Used,Gasoline,Front Wheel Drive,Manual,116,999.0,5.0,5.0,Cloth,False,False,Dealer
+BYD,Seal U,Off-Road/Pick-up,6239,37380,2024.0,DE,Used,Electric,Front Wheel Drive,Automatic,218,1598.0,5.0,4.0,Full leather,True,True,Dealer
+Tesla,Model X,Off-Road/Pick-up,60000,52900,2018.0,ES,Used,Electric,Front Wheel Drive,Automatic,525,1598.0,5.0,5.0,Cloth,False,False,Dealer
+Jeep,Compass,Off-Road/Pick-up,67000,14900,2019.0,IT,Used,Gasoline,Front Wheel Drive,Manual,140,1368.0,5.0,5.0,Part leather,False,True,Dealer
+Peugeot,2008,Off-Road/Pick-up,84265,12990,2020.0,BE,Used,Gasoline,Front Wheel Drive,Manual,101,1199.0,5.0,5.0,Cloth,True,True,Dealer
+Opel,Corsa,Sedan,152410,3450,2008.0,IT,Used,Gasoline,Front Wheel Drive,Manual,80,1229.0,5.0,3.0,Cloth,True,True,Dealer
+smart,forFour,Sedan,55,15555,2021.0,DE,Used,Electric,Rear Wheel Drive,Automatic,82,1598.0,4.0,5.0,Cloth,True,True,Dealer
+Land Rover,Defender,Off-Road/Pick-up,12990,92500,2025.0,BE,Used,Diesel,4WD,Automatic,300,2996.0,5.0,5.0,Other,False,False,Dealer
+Lancia,Ypsilon,Compact,137500,5500,2014.0,IT,Used,Gasoline,Front Wheel Drive,Manual,84,875.0,4.0,5.0,Cloth,True,False,Dealer
+Renault,Clio,Compact,129500,7999,2021.0,DE,Used,Gasoline,Front Wheel Drive,Manual,67,1598.0,5.0,5.0,Cloth,True,True,Dealer
+Lexus,RZ,Off-Road/Pick-up,42228,48770,2024.0,BE,Used,Electric,4WD,Automatic,313,1598.0,5.0,5.0,Full leather,True,True,Dealer
+Dodge,Avenger,Sedan,139000,2800,2008.0,,Used,Diesel,Front Wheel Drive,Manual,140,1968.0,5.0,4.0,Part leather,False,False,PrivateSeller
+Dacia,Logan,Station wagon,69946,9950,2020.0,BE,Used,LPG,Front Wheel Drive,Manual,101,999.0,5.0,5.0,Cloth,False,False,Dealer
+Jeep,Avenger,Off-Road/Pick-up,50,22900,2025.0,IT,Used,Gasoline,Front Wheel Drive,Manual,101,1199.0,5.0,5.0,Cloth,True,True,Dealer
+Lexus,ES 300,Sedan,94000,34000,2021.0,,Used,Electric/Gasoline,Front Wheel Drive,Automatic,218,2487.0,5.0,4.0,alcantara,True,True,PrivateSeller
+Hyundai,i30,Station wagon,75500,10500,2016.0,DE,Used,Gasoline,Front Wheel Drive,Manual,101,1368.0,5.0,5.0,Cloth,True,True,Dealer
+Dodge,Avenger,Sedan,198977,2850,2007.0,,Used,Gasoline,Front Wheel Drive,Manual,156,2000.0,5.0,4.0,Cloth,False,False,PrivateSeller
+Lancia,Ypsilon,Sedan,0,10790,2020.0,IT,New,Electric,Front Wheel Drive,Automatic,156,1598.0,5.0,5.0,Other,False,False,Dealer
+smart,forTwo,Compact,123500,2950,2001.0,DE,Used,Gasoline,Front Wheel Drive,Semi-automatic,54,599.0,2.0,2.0,Cloth,True,True,Dealer
+Tesla,Model 3,Sedan,139000,20800,2019.0,IT,Used,Electric,4WD,Automatic,208,1598.0,5.0,5.0,Full leather,True,True,Dealer
+Maserati,GranTurismo,Coupe,15900,99890,2018.0,FR,Used,Gasoline,Front Wheel Drive,Automatic,466,4691.0,4.0,2.0,Cloth,False,False,Dealer
+BYD,Atto 3,Off-Road/Pick-up,74050,22500,2022.0,NL,Used,Electric,Front Wheel Drive,Automatic,204,1598.0,5.0,5.0,Full leather,True,False,Dealer
+Ford,Puma,Off-Road/Pick-up,62456,15995,2021.0,DE,Used,Gasoline,Front Wheel Drive,Manual,125,999.0,5.0,5.0,Part leather,True,True,Dealer
+Hyundai,KONA,Off-Road/Pick-up,17000,15499,2020.0,BE,Used,Electric,Front Wheel Drive,Automatic,136,1598.0,5.0,5.0,Cloth,False,False,Dealer
+Toyota,C-HR,Off-Road/Pick-up,113750,17949,2019.0,NL,Used,Electric/Gasoline,Front Wheel Drive,Automatic,122,1798.0,5.0,5.0,Part leather,False,True,Dealer
+Porsche,Panamera,Sedan,170000,59500,2017.0,DE,Used,Diesel,4WD,Automatic,421,3956.0,4.0,4.0,Full leather,True,True,Dealer
+Alfa Romeo,Giulietta,Sedan,140000,7500,2013.0,IT,Used,Diesel,Front Wheel Drive,Manual,105,1598.0,5.0,5.0,Cloth,True,False,Dealer
+Fiat,Panda,Sedan,73653,8850,2019.0,IT,Used,Gasoline,Front Wheel Drive,Manual,69,1242.0,4.0,5.0,Other,False,False,Dealer
+Skoda,Kamiq,Off-Road/Pick-up,3540,20900,2024.0,IT,Used,Gasoline,Front Wheel Drive,Automatic,116,999.0,5.0,5.0,Other,False,False,Dealer
+Suzuki,Swift,Compact,183848,3500,2009.0,NL,Used,Gasoline,Front Wheel Drive,Manual,92,1328.0,5.0,5.0,Cloth,True,False,Dealer
+CUPRA,Tavascan,Off-Road/Pick-up,20060,47949,2025.0,NL,Used,Electric,4WD,Automatic,340,1598.0,5.0,5.0,alcantara,False,False,Dealer
+Peugeot,3008,Off-Road/Pick-up,13025,22500,2021.0,DE,Used,Gasoline,Front Wheel Drive,Automatic,131,1199.0,5.0,5.0,Full leather,False,False,Dealer
+Porsche,911,Coupe,141667,74490,2013.0,ES,Used,Gasoline,Front Wheel Drive,Automatic,405,3798.0,5.0,5.0,Cloth,False,False,Dealer
+MG,ZS,Sedan,1,20500,2025.0,IT,Used,Others,Front Wheel Drive,Manual,1,1598.0,5.0,5.0,Other,False,False,Dealer
+Ford,C-Max,Van,189841,2950,2011.0,DE,Used,Gasoline,Front Wheel Drive,Manual,125,1596.0,5.0,5.0,Cloth,False,True,Dealer
+Honda,Jazz,Van,144000,1750,2008.0,DE,Used,Gasoline,Front Wheel Drive,Manual,77,1246.0,5.0,5.0,Cloth,False,True,Dealer
+BYD,Seal U,Off-Road/Pick-up,52,37895,2025.0,NL,Used,Electric/Gasoline,Front Wheel Drive,Automatic,292,1498.0,5.0,5.0,Other,False,False,Dealer
+BYD,Dolphin,Compact,51,23990,2025.0,DE,Used,Electric,Front Wheel Drive,Automatic,156,1598.0,4.0,5.0,Full leather,True,True,Dealer
+smart,forTwo,Convertible,100670,5500,2007.0,IT,Used,Gasoline,Front Wheel Drive,Semi-automatic,71,999.0,2.0,2.0,Cloth,True,True,Dealer
+Peugeot,2008,Off-Road/Pick-up,9706,20990,2023.0,BE,Used,Diesel,Front Wheel Drive,Automatic,131,1499.0,5.0,5.0,Part leather,False,True,Dealer
+Volkswagen,Polo,Compact,128063,9795,2013.0,NL,Used,Gasoline,Front Wheel Drive,Manual,90,1197.0,5.0,5.0,Cloth,False,False,Dealer
+Dacia,Spring,Compact,16441,10990,2022.0,DE,Used,Electric,Front Wheel Drive,Automatic,45,1598.0,4.0,5.0,Full leather,True,True,Dealer
+Kia,EV9,Off-Road/Pick-up,5,80980,2020.0,DE,New,Electric,4WD,Automatic,385,1598.0,7.0,5.0,Full leather,False,False,Dealer
+MINI,Cooper Countryman,Off-Road/Pick-up,48108,26980,2023.0,DE,Used,Gasoline,Front Wheel Drive,Automatic,136,1499.0,5.0,5.0,Full leather,True,True,Dealer
+Volkswagen,Golf,Sedan,158168,10990,2018.0,DE,Used,Diesel,Front Wheel Drive,Manual,116,1598.0,5.0,4.0,Cloth,True,False,Dealer
+Mitsubishi,Pajero,Off-Road/Pick-up,152000,23900,2016.0,IT,Used,Diesel,4WD,Automatic,190,3200.0,7.0,5.0,Cloth,False,False,Dealer
+Renault,Clio,Compact,10,29980,2020.0,DE,New,Electric/Gasoline,Front Wheel Drive,Automatic,158,1789.0,5.0,5.0,Cloth,True,True,Dealer
+Nissan,Leaf,Compact,120375,9700,2018.0,NL,Used,Electric,Front Wheel Drive,Automatic,150,1598.0,5.0,5.0,Cloth,True,False,Dealer
+Skoda,Superb,Sedan,99595,20760,2018.0,DE,Used,Gasoline,4WD,Automatic,280,1984.0,5.0,4.0,Full leather,True,True,Dealer
+Porsche,Macan,Off-Road/Pick-up,15108,89990,2024.0,BE,Used,Electric,4WD,Automatic,408,1598.0,5.0,5.0,Full leather,True,True,Dealer
+Suzuki,Jimny,Off-Road/Pick-up,39446,25950,2015.0,NL,Used,Gasoline,4WD,Automatic,84,1328.0,4.0,3.0,Full leather,True,True,Dealer
+Mercedes-Benz,GLA 200,Off-Road/Pick-up,131715,19900,2019.0,IT,Used,Diesel,Front Wheel Drive,Automatic,136,2143.0,5.0,5.0,Full leather,False,False,Dealer
+Volkswagen,Golf,Compact,129596,14450,2018.0,NL,Used,Gasoline,Front Wheel Drive,Automatic,111,999.0,5.0,5.0,Velour,False,False,Dealer
+Kia,EV5,Off-Road/Pick-up,10,45290,2020.0,AT,New,Electric,Front Wheel Drive,Automatic,216,1598.0,5.0,5.0,Other,False,False,Dealer
+Alfa Romeo,Junior,Off-Road/Pick-up,0,25550,2020.0,IT,New,Electric/Gasoline,Front Wheel Drive,Automatic,145,1199.0,5.0,5.0,Cloth,False,False,Dealer
+Audi,A3,Sedan,95500,18980,2023.0,DE,Used,Gasoline,Front Wheel Drive,Manual,110,999.0,5.0,4.0,Full leather,True,False,Dealer
+BMW,520,Station wagon,72450,24244,2019.0,DE,Used,Gasoline,Rear Wheel Drive,Automatic,184,1998.0,5.0,4.0,Full leather,False,False,Dealer
+Jaguar,XJ,Sedan,418376,7777,2007.0,DE,Used,Diesel,Rear Wheel Drive,Automatic,207,2720.0,5.0,4.0,Full leather,True,True,Dealer
+Mazda,MX-30,Station wagon,44500,13890,2021.0,DE,Used,Electric,Front Wheel Drive,Automatic,145,1598.0,5.0,5.0,Part leather,False,True,Dealer
+Audi,A6,Station wagon,193266,13750,2016.0,BE,Used,Diesel,Rear Wheel Drive,Automatic,150,1968.0,5.0,5.0,Full leather,True,True,Dealer
+SEAT,Leon,Sedan,91988,21980,2020.0,DE,Used,Gasoline,Front Wheel Drive,Automatic,290,1984.0,5.0,5.0,alcantara,False,False,Dealer
+Toyota,Yaris Cross,Off-Road/Pick-up,10,23990,2024.0,IT,Used,Electric/Gasoline,Front Wheel Drive,Automatic,92,1490.0,5.0,5.0,Cloth,False,False,Dealer
+Citroen,C4 Cactus,Off-Road/Pick-up,142418,7250,2017.0,NL,Used,Gasoline,Front Wheel Drive,Manual,82,1199.0,5.0,5.0,Cloth,False,False,Dealer
+Mercedes-Benz,GLC 300,Off-Road/Pick-up,110250,30700,2021.0,DE,Used,Electric/Gasoline,4WD,Automatic,211,1991.0,5.0,5.0,Cloth,True,True,Dealer
+smart,forTwo,Convertible,89000,11490,2016.0,DE,Used,Gasoline,Rear Wheel Drive,Automatic,71,999.0,2.0,2.0,Full leather,False,True,Dealer
+Volvo,XC60,Off-Road/Pick-up,117475,30980,2022.0,DE,Used,Diesel,Front Wheel Drive,Automatic,197,1969.0,5.0,5.0,Full leather,False,False,Dealer
+Kia,XCeed,Off-Road/Pick-up,105844,14475,2020.0,DE,Used,Electric/Gasoline,Front Wheel Drive,Automatic,141,1580.0,5.0,5.0,Part leather,True,True,Dealer
+BMW,116,Compact,194833,8695,2014.0,NL,Used,Gasoline,Rear Wheel Drive,Automatic,136,1598.0,5.0,5.0,Cloth,False,False,Dealer
+Mitsubishi,ASX,Off-Road/Pick-up,3,23290,2025.0,ES,Used,Gasoline,Front Wheel Drive,Manual,140,1332.0,5.0,5.0,Cloth,False,False,Dealer
+Abarth,500C,Convertible,64900,18800,2020.0,,Used,Gasoline,Front Wheel Drive,Manual,179,1368.0,4.0,2.0,Cloth,True,False,PrivateSeller
+Volvo,XC60,Off-Road/Pick-up,19500,39990,2023.0,DE,Used,Diesel,Front Wheel Drive,Automatic,197,1969.0,5.0,5.0,Cloth,True,True,Dealer
+Citroen,C3,Sedan,66782,8990,2020.0,DE,Used,Gasoline,Front Wheel Drive,Manual,83,1199.0,5.0,5.0,Cloth,True,True,Dealer
+Ferrari,400,Sedan,120000,65900,1982.0,DE,Used,Gasoline,Rear Wheel Drive,Manual,315,4824.0,4.0,2.0,Full leather,False,False,Dealer
+Abarth,695,Compact,19999,26950,2024.0,IT,Used,Gasoline,Front Wheel Drive,Manual,179,1368.0,4.0,3.0,Part leather,False,False,Dealer
+Opel,Insignia,Compact,162529,5750,2010.0,NL,Used,Gasoline,Front Wheel Drive,Manual,179,1598.0,5.0,5.0,Cloth,True,False,Dealer
+Mazda,3,Sedan,89240,15800,2018.0,BE,Used,Gasoline,Front Wheel Drive,Automatic,120,1998.0,5.0,5.0,Full leather,True,False,Dealer
+Opel,Insignia,Compact,59912,29990,2021.0,DE,Used,Gasoline,4WD,Automatic,230,1598.0,5.0,5.0,Full leather,True,True,Dealer
+Suzuki,Celerio,Compact,109624,7950,2017.0,NL,Used,Gasoline,Front Wheel Drive,Manual,68,998.0,5.0,5.0,Cloth,True,True,Dealer
+Peugeot,508,Station wagon,24500,27680,2024.0,AT,Used,Diesel,Front Wheel Drive,Automatic,131,1499.0,5.0,5.0,Full leather,True,False,Dealer
+Volvo,XC40,Off-Road/Pick-up,28500,33400,2025.0,IT,Used,Electric/Gasoline,Front Wheel Drive,Automatic,163,1969.0,5.0,5.0,Cloth,False,False,Dealer
+Skoda,Octavia,Station wagon,184300,14500,2018.0,IT,Used,Diesel,4WD,Automatic,184,1968.0,5.0,5.0,Cloth,True,True,Dealer
+Jeep,Compass,Off-Road/Pick-up,54000,14790,2018.0,IT,Used,Gasoline,Front Wheel Drive,Manual,140,1368.0,5.0,5.0,Part leather,False,False,Dealer
+CUPRA,Leon,Station wagon,149886,19945,2021.0,NL,Used,Electric/Gasoline,Front Wheel Drive,Automatic,150,1395.0,5.0,5.0,Part leather,True,False,Dealer
+Mercedes-Benz,C 63 AMG,Sedan,152331,35999,2016.0,NL,Used,Gasoline,Rear Wheel Drive,Automatic,476,3982.0,5.0,4.0,Full leather,True,False,Dealer
+Alfa Romeo,159,Sedan,205000,9800,2012.0,ES,Used,Diesel,Front Wheel Drive,Manual,170,1598.0,5.0,5.0,Cloth,False,False,Dealer
+Tesla,Model 3,Compact,109612,23950,2020.0,NL,Used,Electric,4WD,Automatic,351,1598.0,5.0,5.0,Full leather,True,False,Dealer
+Porsche,Macan,Station wagon,89500,71900,2022.0,IT,Used,Gasoline,Front Wheel Drive,Automatic,441,2894.0,5.0,5.0,Cloth,False,False,Dealer
+Kia,Sportage,Off-Road/Pick-up,21041,23350,2024.0,DE,Used,Gasoline,Front Wheel Drive,Manual,150,1598.0,5.0,5.0,Cloth,True,False,Dealer
+Jeep,Compass,Off-Road/Pick-up,15968,24950,2024.0,IT,Used,Electric/Gasoline,Front Wheel Drive,Automatic,131,1469.0,5.0,5.0,Part leather,True,True,Dealer
+MINI,Cooper,Sedan,41900,19950,2021.0,BE,Used,Gasoline,Front Wheel Drive,Manual,136,1499.0,4.0,3.0,Part leather,True,True,Dealer
+smart,forTwo,Sedan,249021,2150,2011.0,DE,Used,Diesel,Front Wheel Drive,Automatic,54,1598.0,2.0,3.0,Cloth,False,False,Dealer
+Fiat,Panda,Sedan,63000,6490,2013.0,BE,Used,Gasoline,Front Wheel Drive,Manual,69,1242.0,5.0,5.0,Cloth,True,False,Dealer
+Lexus,NX 300h,Off-Road/Pick-up,118946,18549,2016.0,NL,Used,Electric/Gasoline,4WD,Automatic,197,2494.0,5.0,5.0,Full leather,False,True,Dealer
+Porsche,Cayenne,Off-Road/Pick-up,269000,9999,2009.0,DE,Used,Diesel,4WD,Automatic,239,2967.0,5.0,5.0,Full leather,False,False,Dealer
+Mitsubishi,Space Star,Sedan,64251,7700,2017.0,DE,Used,Gasoline,Front Wheel Drive,Manual,80,1193.0,5.0,4.0,Cloth,True,False,Dealer
+Nissan,Qashqai,Off-Road/Pick-up,94000,7490,2012.0,IT,Used,Gasoline,Front Wheel Drive,Manual,117,1598.0,5.0,5.0,Cloth,False,False,Dealer
+Dodge,RAM,Off-Road/Pick-up,25389,58999,2024.0,DE,Used,Gasoline,4WD,Automatic,401,5654.0,5.0,4.0,Full leather,False,True,Dealer
+Kia,Picanto,Sedan,60250,6990,2017.0,DE,Used,Gasoline,Front Wheel Drive,Manual,67,998.0,5.0,5.0,Cloth,True,True,Dealer
+Alfa Romeo,MiTo,Sedan,121000,6500,2011.0,IT,Used,Diesel,Front Wheel Drive,Manual,120,1598.0,4.0,3.0,Other,True,False,Dealer
+MINI,Cooper,Sedan,65100,18390,2022.0,DE,Used,Gasoline,Front Wheel Drive,Manual,136,1499.0,5.0,3.0,Full leather,True,True,Dealer
+Bentley,Flying Spur,Sedan,97000,61900,2014.0,ES,Used,Gasoline,4WD,Automatic,507,3993.0,5.0,4.0,Cloth,False,False,Dealer
+Ford,Mondeo,Station wagon,133220,11880,2018.0,DE,Used,Gasoline,Front Wheel Drive,Manual,160,1498.0,5.0,4.0,Cloth,True,True,Dealer
+Hyundai,i10,Compact,53660,11900,2020.0,NL,Used,Gasoline,Front Wheel Drive,Manual,67,998.0,4.0,5.0,Cloth,True,False,Dealer
+Hyundai,KONA,Off-Road/Pick-up,74663,16350,2021.0,IT,Used,Electric/Gasoline,Front Wheel Drive,Automatic,105,1580.0,5.0,5.0,Cloth,True,True,Dealer
+Jaguar,E-Pace,Off-Road/Pick-up,94448,23990,2020.0,DE,Used,Diesel,4WD,Automatic,179,1598.0,5.0,5.0,Full leather,True,True,Dealer
+smart,forTwo,Compact,118401,1490,1999.0,DE,Used,Gasoline,Front Wheel Drive,Automatic,71,599.0,2.0,2.0,Cloth,True,False,Dealer
+Skoda,Kodiaq,Off-Road/Pick-up,226606,16990,2019.0,BE,Used,Gasoline,Front Wheel Drive,Automatic,150,1498.0,7.0,4.0,Cloth,False,True,Dealer
+Jaguar,XF,Sedan,94000,15990,2012.0,AT,Used,Diesel,Front Wheel Drive,Automatic,190,1598.0,5.0,4.0,Full leather,True,False,Dealer
+Volvo,XC60,Off-Road/Pick-up,58489,45950,2023.0,NL,Used,Electric/Gasoline,4WD,Automatic,455,1969.0,5.0,5.0,Full leather,False,False,Dealer
+Fiat,Scudo,Van,86000,15980,2015.0,IT,Used,Diesel,Front Wheel Drive,Manual,128,1997.0,9.0,4.0,Cloth,False,False,Dealer
+CUPRA,Formentor,Coupe,18000,23490,2022.0,AT,Used,Gasoline,Front Wheel Drive,Manual,150,1498.0,5.0,5.0,Cloth,True,False,Dealer
+Jeep,Avenger,Off-Road/Pick-up,6315,18970,2023.0,DE,Used,Gasoline,Front Wheel Drive,Manual,101,1199.0,5.0,5.0,Cloth,True,True,Dealer
+Chevrolet,Spark,Compact,130225,2450,2010.0,NL,Used,Gasoline,Front Wheel Drive,Manual,68,995.0,5.0,5.0,Cloth,True,False,Dealer
+Citroen,C3 Aircross,Off-Road/Pick-up,12048,15940,2024.0,IT,Used,Gasoline,Front Wheel Drive,Manual,110,1199.0,5.0,5.0,Other,False,False,Dealer
+Mazda,CX-30,Off-Road/Pick-up,54650,21790,2019.0,DE,Used,Gasoline,Front Wheel Drive,Automatic,179,1998.0,5.0,5.0,Cloth,False,False,Dealer
+BMW,116,Sedan,45000,20900,2023.0,BE,Used,Diesel,Front Wheel Drive,Automatic,116,1496.0,5.0,5.0,Cloth,True,True,Dealer
+CUPRA,Terramar,Off-Road/Pick-up,11500,36980,2024.0,DE,Used,Gasoline,Front Wheel Drive,Automatic,150,1498.0,5.0,5.0,Full leather,True,True,Dealer
+Kia,Niro,Off-Road/Pick-up,15637,29490,2023.0,BE,Used,Electric,Front Wheel Drive,Automatic,204,1598.0,5.0,5.0,Part leather,False,True,Dealer
+Maserati,Quattroporte,Sedan,102750,24995,2008.0,NL,Used,Gasoline,Front Wheel Drive,Automatic,402,4244.0,5.0,4.0,Cloth,True,False,Dealer
+Jaguar,XF,Sedan,145000,7976,2018.0,DE,Used,Diesel,Rear Wheel Drive,Automatic,241,1999.0,5.0,4.0,Full leather,True,True,Dealer
+smart,forTwo,Compact,146000,3300,2010.0,,Used,Gasoline,Front Wheel Drive,Semi-automatic,71,999.0,2.0,2.0,Cloth,False,False,PrivateSeller
+Opel,Astra,Station wagon,54984,15445,2022.0,DE,Used,Gasoline,Front Wheel Drive,Manual,131,1199.0,5.0,5.0,Cloth,True,True,Dealer
+Chevrolet,Spark,Sedan,74850,2990,2010.0,DE,Used,Gasoline,Front Wheel Drive,Manual,68,995.0,5.0,5.0,Cloth,True,True,Dealer
+Land Rover,Range Rover Velar,Off-Road/Pick-up,23000,63500,2025.0,DE,Used,Electric/Gasoline,4WD,Automatic,404,1997.0,5.0,5.0,Full leather,True,True,Dealer
+Renault,Austral,Off-Road/Pick-up,25914,25980,2023.0,DE,Used,Electric/Gasoline,Front Wheel Drive,Automatic,158,1332.0,5.0,5.0,Other,True,True,Dealer
+Suzuki,Swift,Compact,10,16290,2025.0,DE,Used,Gasoline,4WD,Manual,83,1197.0,5.0,5.0,Cloth,True,True,Dealer
+Toyota,RAV 4,Off-Road/Pick-up,113826,26495,2021.0,BE,Used,Electric/Gasoline,Front Wheel Drive,Automatic,218,2487.0,5.0,5.0,Cloth,True,True,Dealer
+Alfa Romeo,Giulia,Sedan,12803,28710,2022.0,ES,Used,Diesel,Rear Wheel Drive,Automatic,190,2143.0,5.0,4.0,Cloth,False,False,Dealer
+Mercedes-Benz,A 200,Sedan,159000,11790,2015.0,DE,Used,Diesel,Front Wheel Drive,Manual,136,2143.0,5.0,5.0,Part leather,True,True,Dealer
+BMW,318,Station wagon,49581,27990,2021.0,BE,Used,Gasoline,Front Wheel Drive,Automatic,156,1998.0,5.0,5.0,Full leather,False,False,Dealer
+Chevrolet,Camaro,Coupe,11000,59900,2025.0,,Used,Gasoline,Front Wheel Drive,Automatic,461,6200.0,4.0,3.0,alcantara,False,True,PrivateSeller
+MINI,Cooper D Countryman,Off-Road/Pick-up,119300,19500,2020.0,IT,Used,Diesel,Front Wheel Drive,Automatic,150,1995.0,5.0,5.0,Cloth,True,True,Dealer
+Dodge,Charger,Sedan,10,89999,2020.0,DE,New,Gasoline,Rear Wheel Drive,Automatic,727,6166.0,5.0,5.0,alcantara,False,True,Dealer
+Jeep,Renegade,Off-Road/Pick-up,74882,13500,2017.0,IT,Used,Diesel,Front Wheel Drive,Automatic,120,1598.0,5.0,5.0,Other,False,False,Dealer
+Honda,Civic,Compact,78580,20960,2020.0,ES,Used,Gasoline,Front Wheel Drive,Manual,126,988.0,5.0,5.0,Cloth,False,False,Dealer
+MG,ZS,Off-Road/Pick-up,0,25900,2020.0,DE,New,Electric/Gasoline,Front Wheel Drive,Automatic,197,1498.0,5.0,4.0,Other,False,False,Dealer
+Porsche,997,Coupe,83721,57450,2007.0,NL,Used,Gasoline,Rear Wheel Drive,Manual,355,3824.0,4.0,2.0,Full leather,False,False,Dealer
+Fiat,Grande Panda,Off-Road/Pick-up,10,20890,2025.0,IT,Used,Electric/Gasoline,Front Wheel Drive,Automatic,101,1199.0,5.0,5.0,Cloth,False,False,Dealer
+BYD,Seal U,Off-Road/Pick-up,2754,37480,2024.0,DE,Used,Electric,Front Wheel Drive,Automatic,218,1598.0,5.0,4.0,Full leather,True,True,Dealer
+Aston Martin,Vantage,Coupe,42000,59990,2007.0,ES,Used,Gasoline,Rear Wheel Drive,Manual,379,4300.0,2.0,2.0,Cloth,False,False,Dealer
+Dacia,Duster,Off-Road/Pick-up,122371,4400,2013.0,DE,Used,LPG,Front Wheel Drive,Manual,105,1598.0,5.0,4.0,Cloth,False,False,Dealer
+Mercedes-Benz,E 250,Sedan,123607,16990,2015.0,DE,Used,Gasoline,Rear Wheel Drive,Automatic,211,1991.0,5.0,4.0,Part leather,True,True,Dealer
+Peugeot,4007,Off-Road/Pick-up,315681,3499,2008.0,NL,Used,Gasoline,4WD,Manual,170,2360.0,7.0,5.0,Full leather,False,False,Dealer
+Abarth,595 Competizione,Compact,48876,18900,2021.0,DE,Used,Gasoline,Front Wheel Drive,Manual,179,1368.0,4.0,2.0,alcantara,True,False,Dealer
+Alfa Romeo,MiTo,Compact,124033,9750,2019.0,NL,Used,Diesel,Front Wheel Drive,Manual,95,1248.0,4.0,3.0,alcantara,True,False,Dealer
+Opel,Astra,Station wagon,63600,11700,2019.0,DE,Used,Diesel,Front Wheel Drive,Manual,110,1598.0,5.0,5.0,Cloth,True,True,Dealer
+Mercedes-Benz,C 180,Station wagon,83689,17900,2017.0,BE,Used,Diesel,Front Wheel Drive,Automatic,116,1598.0,5.0,5.0,Full leather,True,True,Dealer
+Tesla,Model 3,Sedan,60463,23499,2021.0,DE,Used,Electric,Front Wheel Drive,Automatic,325,1598.0,5.0,5.0,Other,False,True,Dealer
+BYD,Seal U,Off-Road/Pick-up,2012,35888,2025.0,DE,Used,Electric/Gasoline,4WD,Automatic,324,1498.0,5.0,5.0,Full leather,True,True,Dealer
+CUPRA,Leon,Station wagon,20,28990,2025.0,DE,Used,Gasoline,Front Wheel Drive,Manual,150,1498.0,5.0,5.0,Part leather,False,True,Dealer
+Dodge,Nitro,Off-Road/Pick-up,105000,12900,2010.0,DE,Used,Gasoline,4WD,Automatic,205,3700.0,5.0,5.0,Cloth,False,True,Dealer
+Kia,Ceed / cee'd,Sedan,71326,7820,2014.0,DE,Used,Gasoline,Front Wheel Drive,Manual,99,1396.0,5.0,5.0,Cloth,False,False,Dealer
+Skoda,Kamiq,Off-Road/Pick-up,10350,22290,2020.0,DE,Used,Gasoline,Front Wheel Drive,Automatic,150,1498.0,5.0,5.0,Cloth,True,True,Dealer
+Fiat,500,Compact,74575,10800,2022.0,DE,Used,Gasoline,Front Wheel Drive,Manual,69,999.0,4.0,3.0,Full leather,True,True,Dealer
+Jeep,Renegade,Off-Road/Pick-up,133099,11190,2015.0,ES,Used,Diesel,Front Wheel Drive,Manual,120,1598.0,5.0,5.0,Cloth,False,False,Dealer
+Fiat,500,Compact,26246,13900,2024.0,IT,Used,Electric/Gasoline,Front Wheel Drive,Manual,69,999.0,4.0,3.0,Cloth,False,False,Dealer
+Lancia,MUSA,Van,157000,2650,2009.0,IT,Used,LPG,Front Wheel Drive,Manual,77,1368.0,5.0,5.0,Cloth,False,False,Dealer
+Toyota,Auris,Sedan,110000,11000,2017.0,IT,Used,Electric/Gasoline,Front Wheel Drive,Automatic,99,1798.0,5.0,5.0,Cloth,True,False,Dealer
+Mazda,CX-5,Off-Road/Pick-up,105415,22200,2022.0,IT,Used,Diesel,Front Wheel Drive,Automatic,150,2191.0,5.0,5.0,Other,False,False,Dealer
+Suzuki,Alto,Compact,209159,1350,2010.0,NL,Used,Gasoline,Front Wheel Drive,Manual,68,996.0,5.0,5.0,Cloth,False,False,Dealer
+Skoda,Octavia,Station wagon,115980,24450,2021.0,DE,Used,Diesel,Front Wheel Drive,Automatic,200,1968.0,5.0,5.0,Cloth,True,True,Dealer
+Fiat,500 Abarth,Compact,59411,18950,2018.0,NL,Used,Gasoline,Front Wheel Drive,Manual,165,1368.0,4.0,3.0,Full leather,False,False,Dealer
+Suzuki,Jimny,Off-Road/Pick-up,121550,25500,2019.0,DE,Used,Gasoline,4WD,Manual,102,1462.0,4.0,2.0,Cloth,True,True,Dealer
+Jaguar,F-Pace,Off-Road/Pick-up,91500,29900,2020.0,FR,Used,Diesel,Front Wheel Drive,Automatic,182,1999.0,5.0,5.0,Cloth,False,False,Dealer
+BMW,118,Sedan,254600,8800,2017.0,IT,Used,Diesel,Rear Wheel Drive,Manual,150,1995.0,5.0,5.0,alcantara,True,False,Dealer
+Tesla,Model 3,Sedan,27237,40390,2024.0,BE,Used,Electric,4WD,Automatic,392,1598.0,5.0,4.0,Full leather,True,True,Dealer
+BYD,Seal U,Off-Road/Pick-up,18100,33500,2025.0,,Used,Electric/Gasoline,4WD,Automatic,98,1498.0,5.0,5.0,Full leather,True,True,PrivateSeller
+Dodge,Challenger,Coupe,97000,28990,2016.0,DE,Used,Gasoline,Rear Wheel Drive,Automatic,492,6417.0,5.0,5.0,Full leather,True,True,Dealer
+Lexus,NX 300h,Off-Road/Pick-up,143000,20950,2014.0,,Used,Electric/Gasoline,4WD,Automatic,155,2500.0,5.0,4.0,Full leather,True,True,PrivateSeller
+Fiat,Topolino,Compact,10,9890,2020.0,DE,New,Electric,Front Wheel Drive,Automatic,8,1598.0,2.0,2.0,Other,False,False,Dealer
+Jaguar,S-Type,Sedan,176552,2555,2001.0,DE,Used,Gasoline,Front Wheel Drive,Automatic,238,2967.0,5.0,4.0,Cloth,True,False,Dealer
+Ford,Puma,Off-Road/Pick-up,38442,14990,2021.0,DE,Used,Gasoline,Front Wheel Drive,Manual,125,999.0,5.0,5.0,Cloth,True,True,Dealer
+MINI,Cooper,Compact,235854,3750,2004.0,NL,Used,Gasoline,Front Wheel Drive,Manual,116,1598.0,4.0,3.0,Cloth,True,False,Dealer
+Dacia,Sandero,Compact,27863,9990,2018.0,DE,Used,Gasoline,Front Wheel Drive,Manual,90,1598.0,5.0,5.0,Cloth,True,False,Dealer
+Dodge,RAM,Off-Road/Pick-up,205000,10999,2010.0,DE,Used,Gasoline,Front Wheel Drive,Automatic,218,3701.0,3.0,2.0,Cloth,False,False,Dealer
+Kia,ProCeed / pro_cee'd,Station wagon,131522,19900,2021.0,NL,Used,Electric/Gasoline,Front Wheel Drive,Automatic,159,1482.0,5.0,5.0,Cloth,True,False,Dealer
+Maserati,GranCabrio,Convertible,52000,59000,2010.0,,Used,Gasoline,Rear Wheel Drive,Automatic,439,4691.0,4.0,2.0,Full leather,True,False,PrivateSeller
+MG,ZS,Off-Road/Pick-up,12300,14790,2024.0,IT,Used,Gasoline,Front Wheel Drive,Manual,106,1498.0,5.0,5.0,Full leather,False,False,Dealer
+SEAT,Ibiza,Compact,99999,10941,2016.0,NL,Used,Gasoline,Front Wheel Drive,Automatic,111,999.0,5.0,5.0,Cloth,True,False,Dealer
+Chevrolet,Camaro,Coupe,190000,19000,2019.0,,Used,Gasoline,Front Wheel Drive,Automatic,275,1998.0,4.0,2.0,Cloth,False,False,PrivateSeller
+Lexus,LS 460,Sedan,194000,7990,2007.0,DE,Used,Gasoline,Rear Wheel Drive,Automatic,381,4608.0,5.0,4.0,Cloth,False,False,Dealer
+Nissan,X-Trail,Off-Road/Pick-up,0,38990,2020.0,DE,New,Gasoline,Front Wheel Drive,Automatic,163,1497.0,5.0,5.0,Other,True,True,Dealer
+Kia,EV3,Off-Road/Pick-up,10,39490,2020.0,DE,New,Electric,Front Wheel Drive,Automatic,204,1598.0,5.0,5.0,Full leather,True,True,Dealer
+Nissan,Qashqai,Off-Road/Pick-up,10,27750,2025.0,DE,Used,Gasoline,Front Wheel Drive,Automatic,158,1332.0,5.0,4.0,Part leather,True,True,Dealer
+Tesla,Model Y,Off-Road/Pick-up,43000,43900,2024.0,,Used,Electric,4WD,Automatic,514,1598.0,5.0,5.0,Cloth,True,True,PrivateSeller
+Suzuki,Across,Off-Road/Pick-up,19000,45000,2023.0,AT,Used,Gasoline,4WD,Automatic,185,2487.0,5.0,5.0,Part leather,True,True,Dealer
+BMW,X5,Off-Road/Pick-up,100000,27900,2016.0,IT,Used,Diesel,4WD,Automatic,249,2993.0,5.0,5.0,Full leather,False,False,Dealer
+Fiat,500e,Compact,23131,17975,2023.0,DE,Used,Electric,Front Wheel Drive,Automatic,118,1598.0,4.0,3.0,Cloth,True,True,Dealer
+Chevrolet,Orlando,Van,89100,7999,2014.0,DE,Used,Gasoline,Front Wheel Drive,Manual,140,1362.0,7.0,4.0,Cloth,False,True,Dealer
+Peugeot,207,Convertible,126000,4990,2014.0,BE,Used,Gasoline,Front Wheel Drive,Manual,120,1598.0,4.0,2.0,Cloth,True,True,Dealer
+MINI,Cooper Countryman,Off-Road/Pick-up,76022,14980,2017.0,DE,Used,Gasoline,Front Wheel Drive,Manual,136,1499.0,5.0,5.0,Cloth,False,False,Dealer
+Lexus,NX 300,Off-Road/Pick-up,28523,30998,2018.0,DE,Used,Electric/Gasoline,4WD,Automatic,197,2494.0,5.0,5.0,Full leather,True,True,Dealer
+Skoda,Kamiq,Off-Road/Pick-up,9643,21990,2024.0,BE,Used,Gasoline,Front Wheel Drive,Automatic,116,999.0,5.0,5.0,Cloth,True,True,Dealer
+Opel,Corsa,Sedan,1,17500,2025.0,IT,Used,Electric/Gasoline,Front Wheel Drive,Automatic,101,1199.0,5.0,5.0,Cloth,False,False,Dealer
+Suzuki,Jimny,Off-Road/Pick-up,10623,32900,2021.0,NL,Used,Gasoline,4WD,Manual,102,1462.0,5.0,3.0,Cloth,True,True,Dealer
+smart,forFour,Sedan,105005,11500,2019.0,IT,Used,Gasoline,Front Wheel Drive,Manual,71,999.0,4.0,5.0,Cloth,False,True,Dealer
+smart,forFour,Compact,19900,13400,2018.0,IT,Used,Gasoline,Front Wheel Drive,Automatic,71,999.0,4.0,5.0,Cloth,True,True,Dealer
+Dacia,Sandero,Sedan,27850,7600,2016.0,IT,Used,Gasoline,Front Wheel Drive,Manual,73,1149.0,5.0,5.0,Other,False,False,Dealer
+Lexus,LS 600,Sedan,304000,14000,2008.0,,Used,Electric/Gasoline,Front Wheel Drive,Automatic,394,4969.0,5.0,4.0,Full leather,True,True,PrivateSeller
+Mitsubishi,Space Star,Compact,74467,10899,2023.0,ES,Used,Gasoline,Front Wheel Drive,Automatic,71,1193.0,5.0,5.0,Cloth,False,False,Dealer
+Porsche,Macan,Off-Road/Pick-up,41458,54990,2021.0,IT,Used,Gasoline,4WD,Automatic,352,2995.0,5.0,5.0,Full leather,False,False,Dealer
+Ford,Focus,Station wagon,114301,6243,2014.0,NL,Used,Gasoline,Front Wheel Drive,Manual,125,998.0,5.0,5.0,Cloth,False,False,Dealer
+Ford,Grand C-Max,Van,115595,8750,2017.0,NL,Used,Gasoline,Front Wheel Drive,Manual,125,998.0,5.0,5.0,Cloth,False,False,Dealer
+Hyundai,TUCSON,Off-Road/Pick-up,59000,22400,2023.0,IT,Used,Diesel,Front Wheel Drive,Manual,136,1598.0,5.0,5.0,Cloth,False,False,Dealer
+Skoda,Karoq,Off-Road/Pick-up,49948,22227,2021.0,DE,Used,Gasoline,Front Wheel Drive,Automatic,150,1498.0,5.0,5.0,Cloth,True,True,Dealer
+smart,forTwo,Convertible,90000,6800,2014.0,DE,Used,Gasoline,Front Wheel Drive,Semi-automatic,71,1598.0,2.0,2.0,Cloth,True,False,Dealer
+Mitsubishi,Outlander,Off-Road/Pick-up,188235,13450,2015.0,NL,Used,Electric/Gasoline,4WD,Automatic,203,1998.0,5.0,5.0,Part leather,True,False,Dealer
+Tesla,Model Y,Off-Road/Pick-up,85008,33000,2022.0,,Used,Electric,Front Wheel Drive,Automatic,534,1598.0,5.0,5.0,Cloth,False,False,PrivateSeller
+Nissan,Juke,Off-Road/Pick-up,26968,14990,2021.0,DE,Used,Gasoline,Front Wheel Drive,Manual,114,999.0,5.0,5.0,Cloth,True,True,Dealer
+SEAT,Tarraco,Off-Road/Pick-up,77000,27690,2019.0,DE,Used,Gasoline,4WD,Automatic,190,1984.0,5.0,4.0,Full leather,True,True,Dealer
+Abarth,500,Sedan,48367,15500,2016.0,IT,Used,Gasoline,Front Wheel Drive,Manual,179,1368.0,4.0,3.0,Other,False,False,Dealer
+Nissan,Ariya,Off-Road/Pick-up,51121,29990,2022.0,DE,Used,Electric,Front Wheel Drive,Automatic,242,1598.0,5.0,5.0,Full leather,True,True,Dealer
+Maserati,Levante,Off-Road/Pick-up,53000,34990,2018.0,FR,Used,Diesel,4WD,Automatic,275,2987.0,5.0,5.0,Full leather,False,False,Dealer
+Suzuki,Vitara,Off-Road/Pick-up,86100,16000,2018.0,DE,Used,Gasoline,4WD,Automatic,140,1373.0,5.0,4.0,alcantara,True,True,Dealer
+Lamborghini,Gallardo,Convertible,79000,99000,2007.0,,Used,Gasoline,4WD,Automatic,519,4961.0,2.0,2.0,alcantara,True,True,PrivateSeller
+Jaguar,F-Pace,Off-Road/Pick-up,119900,29480,2021.0,DE,Used,Diesel,4WD,Automatic,204,1997.0,5.0,5.0,Full leather,True,True,Dealer
+Kia,Carens,Van,74111,14980,2017.0,DE,Used,Gasoline,Front Wheel Drive,Automatic,166,1999.0,7.0,5.0,Cloth,True,True,Dealer
+Rolls-Royce,Ghost,Sedan,114996,89950,2010.0,BE,Used,Gasoline,Rear Wheel Drive,Automatic,563,6592.0,4.0,4.0,Full leather,False,False,Dealer
+SEAT,Ateca,Off-Road/Pick-up,118257,22745,2019.0,NL,Used,Gasoline,Front Wheel Drive,Automatic,150,1498.0,5.0,5.0,Part leather,True,False,Dealer
+Fiat,500X,Off-Road/Pick-up,11000,15990,2023.0,IT,Used,Diesel,Front Wheel Drive,Manual,95,1248.0,5.0,5.0,Cloth,False,True,Dealer
+BYD,Atto 3,Off-Road/Pick-up,26759,30950,2024.0,NL,Used,Electric,Front Wheel Drive,Automatic,204,1598.0,5.0,5.0,Other,False,False,Dealer
+Suzuki,Ignis,Compact,88333,14949,2017.0,NL,Used,Gasoline,Front Wheel Drive,Automatic,90,1242.0,4.0,5.0,Cloth,True,False,Dealer
+smart,forTwo,Convertible,38900,15490,2019.0,DE,Used,Gasoline,Rear Wheel Drive,Automatic,71,999.0,2.0,2.0,Cloth,True,True,Dealer
+Ford,Puma,Sedan,23757,19950,2021.0,DE,Used,Gasoline,Front Wheel Drive,Automatic,125,999.0,5.0,4.0,Part leather,True,True,Dealer
+smart,forFour,Sedan,99751,7999,2017.0,DE,Used,Gasoline,Rear Wheel Drive,Manual,90,898.0,4.0,4.0,Cloth,True,True,Dealer
+Ford,Tourneo Courier,Van,40958,11782,2017.0,DE,Used,Gasoline,Front Wheel Drive,Manual,101,998.0,5.0,5.0,Cloth,True,True,Dealer
+MINI,John Cooper Works,Sedan,45537,27840,2021.0,DE,Used,Gasoline,Front Wheel Drive,Automatic,231,1998.0,4.0,3.0,Cloth,True,True,Dealer
+Renault,Twingo,Compact,249539,1250,2011.0,NL,Used,Gasoline,Front Wheel Drive,Manual,75,1149.0,3.0,3.0,Cloth,False,False,Dealer
+Mazda,CX-5,Off-Road/Pick-up,173178,12950,2015.0,NL,Used,Gasoline,Front Wheel Drive,Manual,165,1998.0,5.0,5.0,Cloth,True,False,Dealer
+Mazda,CX-7,Off-Road/Pick-up,169900,5900,2008.0,IT,Used,Gasoline,4WD,Manual,260,2261.0,5.0,5.0,Full leather,False,False,Dealer
+Abarth,695,Compact,37000,20500,2020.0,,Used,Gasoline,Front Wheel Drive,Manual,179,1368.0,2.0,3.0,Part leather,False,True,PrivateSeller
+Volkswagen,Tiguan,Off-Road/Pick-up,111600,13899,2012.0,DE,Used,Gasoline,4WD,Automatic,179,1984.0,5.0,4.0,alcantara,True,True,Dealer
+Lancia,Delta,Sedan,140000,6450,2014.0,IT,Used,Diesel,Front Wheel Drive,Manual,120,1598.0,5.0,5.0,Part leather,False,False,Dealer
+Tesla,Model 3,Sedan,39000,31990,2022.0,ES,Used,Electric,Front Wheel Drive,Automatic,534,1598.0,5.0,4.0,Cloth,False,False,Dealer
+Opel,Corsa-e,Compact,64048,11955,2021.0,DE,Used,Electric,Front Wheel Drive,Automatic,136,1598.0,5.0,5.0,Cloth,False,True,Dealer
+Lancia,Ypsilon,Sedan,198000,3990,2012.0,IT,Used,Diesel,Front Wheel Drive,Manual,95,1248.0,4.0,5.0,Cloth,False,False,Dealer
+MINI,Cooper Clubman,Station wagon,67800,16990,2017.0,IT,Used,Gasoline,Front Wheel Drive,Automatic,192,1998.0,5.0,5.0,Cloth,False,False,Dealer
+Hyundai,KONA,Off-Road/Pick-up,74504,17979,2022.0,DE,Used,Electric,Front Wheel Drive,Automatic,204,1598.0,5.0,5.0,Cloth,False,False,Dealer
+Abarth,595,Sedan,91381,14390,2016.0,IT,Used,Gasoline,Front Wheel Drive,Manual,165,1368.0,4.0,3.0,Cloth,False,False,Dealer
+Honda,Civic,Compact,24000,52390,2024.0,ES,Used,Gasoline,Front Wheel Drive,Manual,329,1996.0,4.0,5.0,Cloth,False,False,Dealer
+CUPRA,Ateca,Off-Road/Pick-up,77795,31950,2022.0,DE,Used,Gasoline,4WD,Automatic,300,1984.0,5.0,5.0,Cloth,True,True,Dealer
+CUPRA,Formentor,Off-Road/Pick-up,120413,23899,2022.0,IT,Used,Diesel,4WD,Automatic,150,1968.0,5.0,5.0,Part leather,True,True,Dealer
+CUPRA,Terramar,Off-Road/Pick-up,4500,44930,2025.0,DE,Used,Electric/Gasoline,Front Wheel Drive,Automatic,272,1498.0,5.0,5.0,Cloth,True,True,Dealer
+BMW,525,Station wagon,166140,14990,2014.0,IT,Used,Diesel,Front Wheel Drive,Semi-automatic,218,1995.0,5.0,5.0,Cloth,False,False,Dealer
+Tesla,Model Y,Off-Road/Pick-up,13598,54900,2025.0,NL,Used,Electric,4WD,Automatic,351,1598.0,5.0,5.0,Full leather,False,True,Dealer
+Nissan,Qashqai,Off-Road/Pick-up,92000,10800,2015.0,IT,Used,Diesel,Front Wheel Drive,Manual,110,1461.0,5.0,5.0,Other,False,False,Dealer
+Mitsubishi,ASX,Off-Road/Pick-up,116989,16980,2020.0,AT,Used,Gasoline,4WD,Automatic,150,1998.0,5.0,5.0,Cloth,True,True,Dealer
+Mercedes-Benz,CLA 200,Station wagon,106539,16800,2018.0,BE,Used,Diesel,Front Wheel Drive,Automatic,136,2143.0,5.0,5.0,Part leather,True,False,Dealer
+Jeep,Renegade,Off-Road/Pick-up,24472,20200,2022.0,IT,Used,Diesel,Front Wheel Drive,Manual,131,1598.0,5.0,5.0,Cloth,False,True,Dealer
+Maserati,Quattroporte,Sedan,147500,28900,2009.0,FR,Used,Gasoline,Front Wheel Drive,Automatic,436,4691.0,5.0,4.0,Full leather,False,False,Dealer
+Suzuki,Grand Vitara,Off-Road/Pick-up,284870,3900,2008.0,IT,Used,Diesel,Front Wheel Drive,Manual,129,1870.0,5.0,5.0,Cloth,False,False,Dealer
+MG,HS,Off-Road/Pick-up,44500,16900,2024.0,IT,Used,Gasoline,Front Wheel Drive,Manual,162,1490.0,5.0,5.0,Full leather,True,True,Dealer
+SEAT,Alhambra,Van,92490,26990,2019.0,DE,Used,Diesel,Front Wheel Drive,Automatic,177,1968.0,7.0,4.0,Cloth,True,True,Dealer
+Volvo,XC40,Off-Road/Pick-up,8661,40900,2025.0,DE,Used,Gasoline,Front Wheel Drive,Automatic,197,1969.0,5.0,4.0,Other,True,True,Dealer
+Jaguar,Daimler,Sedan,89500,49999,2000.0,DE,Used,Gasoline,Front Wheel Drive,Automatic,363,3996.0,4.0,4.0,Full leather,True,True,Dealer
+BMW,530,Station wagon,47157,26863,2021.0,IT,Used,Electric/Gasoline,4WD,Automatic,184,1998.0,5.0,5.0,Full leather,False,True,Dealer
+Nissan,Leaf,Compact,32910,15900,2022.0,BE,Used,Electric,Front Wheel Drive,Automatic,116,1598.0,5.0,5.0,Cloth,False,False,Dealer
+smart,roadster,Convertible,119998,3990,2004.0,DE,Used,Gasoline,Front Wheel Drive,Automatic,61,698.0,2.0,2.0,Cloth,True,False,Dealer
+Peugeot,2008,Off-Road/Pick-up,16795,17900,2023.0,IT,Used,Gasoline,Front Wheel Drive,Manual,101,1199.0,5.0,5.0,Cloth,False,False,Dealer
+MG,ZS,Off-Road/Pick-up,1000,23990,2025.0,DE,Used,Electric/Gasoline,Front Wheel Drive,Automatic,197,1498.0,5.0,5.0,Full leather,True,True,Dealer
+CUPRA,Ateca,Off-Road/Pick-up,1100,33812,2025.0,DE,Used,Gasoline,Front Wheel Drive,Automatic,150,1498.0,5.0,5.0,alcantara,True,True,Dealer
+Opel,Cascada,Convertible,175000,6990,2015.0,DE,Used,Gasoline,Front Wheel Drive,Manual,140,1364.0,4.0,2.0,Full leather,True,True,Dealer
+Dodge,RAM,Off-Road/Pick-up,20,66890,2020.0,DE,New,LPG,4WD,Automatic,420,2993.0,5.0,4.0,Cloth,False,False,Dealer
+Volvo,XC40,Off-Road/Pick-up,107000,21990,2022.0,IT,Used,Electric/Gasoline,Front Wheel Drive,Automatic,129,1477.0,5.0,5.0,Cloth,True,True,Dealer
+Jeep,Wrangler,Off-Road/Pick-up,39000,50500,2022.0,IT,Used,Electric/Gasoline,4WD,Automatic,272,1995.0,5.0,5.0,Full leather,True,True,Dealer
+Mitsubishi,Colt,Sedan,61455,6999,2011.0,DE,Used,Gasoline,Front Wheel Drive,Automatic,95,1332.0,5.0,4.0,Cloth,True,True,Dealer
+BMW,X3,Off-Road/Pick-up,61333,27990,2021.0,BE,Used,Diesel,Rear Wheel Drive,Automatic,136,1995.0,5.0,5.0,Full leather,True,True,Dealer
+MINI,Cooper SD Clubman,Station wagon,290000,6500,2017.0,IT,Used,Diesel,4WD,Semi-automatic,190,1995.0,5.0,5.0,Cloth,False,False,Dealer
+Volkswagen,Arteon,Sedan,114555,18299,2018.0,BE,Used,Diesel,Front Wheel Drive,Manual,150,1968.0,5.0,5.0,Cloth,False,True,Dealer
+Jaguar,F-Pace,Off-Road/Pick-up,39977,39900,2022.0,IT,Used,Electric/Diesel,4WD,Automatic,204,1997.0,5.0,5.0,Full leather,False,False,Dealer
+Abarth,595 Turismo,Coupe,92000,13500,2017.0,IT,Used,Gasoline,Front Wheel Drive,Automatic,165,1368.0,4.0,3.0,Full leather,True,False,Dealer
+Opel,Antara,Off-Road/Pick-up,192289,2495,2007.0,NL,Used,Gasoline,4WD,Manual,140,2405.0,5.0,5.0,Cloth,False,False,Dealer
+BMW,330,Sedan,75022,29299,2019.0,BE,Used,Electric/Gasoline,Rear Wheel Drive,Automatic,292,1998.0,5.0,4.0,Full leather,False,True,Dealer
+Porsche,Macan,Off-Road/Pick-up,75143,52500,2021.0,IT,Used,Gasoline,4WD,Automatic,354,2995.0,5.0,5.0,Full leather,False,False,Dealer
+Aston Martin,Vantage,Coupe,113000,44000,2009.0,,Used,Gasoline,Rear Wheel Drive,Semi-automatic,426,4735.0,2.0,2.0,Cloth,True,True,PrivateSeller
+Dodge,Journey,Van,315513,1650,2009.0,NL,Used,LPG,Front Wheel Drive,Manual,170,2360.0,5.0,5.0,Cloth,True,False,Dealer
+Chevrolet,Cruze,Sedan,110000,3600,2011.0,,Used,Diesel,Front Wheel Drive,Manual,163,1998.0,5.0,4.0,Cloth,False,False,PrivateSeller
+Kia,Sportage,Off-Road/Pick-up,89013,20790,2022.0,BE,Used,Gasoline,Front Wheel Drive,Manual,150,1598.0,5.0,5.0,Other,True,False,Dealer
+Suzuki,SX4,Off-Road/Pick-up,134800,8880,2014.0,DE,Used,Gasoline,4WD,Manual,120,1586.0,5.0,5.0,Cloth,True,True,Dealer
+MG,MG4,Sedan,5750,17490,2023.0,DE,Used,Electric,Front Wheel Drive,Automatic,170,1598.0,5.0,4.0,Cloth,True,True,Dealer
+Jeep,Renegade,Off-Road/Pick-up,13000,18900,2021.0,IT,Used,Gasoline,Front Wheel Drive,Automatic,150,1332.0,5.0,5.0,Cloth,True,False,Dealer
+Peugeot,3008,Off-Road/Pick-up,59230,19390,2022.0,IT,Used,Diesel,Front Wheel Drive,Manual,131,1499.0,5.0,5.0,Part leather,True,False,Dealer
+Audi,A1,Sedan,65500,15900,2018.0,IT,Used,Diesel,Front Wheel Drive,Automatic,90,1422.0,4.0,5.0,Cloth,True,True,Dealer
+Porsche,Macan,Off-Road/Pick-up,19000,69900,2022.0,IT,Used,Gasoline,4WD,Automatic,381,2894.0,5.0,5.0,Full leather,True,True,Dealer
+Audi,RS4,Station wagon,81600,47459,2019.0,DE,Used,Gasoline,4WD,Automatic,450,2894.0,5.0,5.0,Full leather,False,True,Dealer
+Kia,XCeed,Off-Road/Pick-up,20347,24475,2023.0,DE,Used,Gasoline,Front Wheel Drive,Automatic,160,1482.0,5.0,5.0,Full leather,False,True,Dealer
+Ford,Mustang Mach-E,Off-Road/Pick-up,30000,29950,2021.0,IT,Used,Electric,4WD,Automatic,169,1598.0,5.0,5.0,Other,False,False,Dealer
+Lexus,CT 200h,Sedan,101363,15890,2018.0,BE,Used,Electric/Gasoline,Front Wheel Drive,Automatic,99,1798.0,5.0,5.0,Full leather,True,True,Dealer
+Jeep,Wrangler,Off-Road/Pick-up,76500,44999,2020.0,IT,Used,Diesel,4WD,Automatic,200,2143.0,5.0,5.0,Full leather,False,False,Dealer
+CUPRA,Formentor,Off-Road/Pick-up,9000,44895,2025.0,DE,Used,Gasoline,Front Wheel Drive,Automatic,265,1984.0,5.0,5.0,alcantara,True,False,Dealer
+Lancia,Ypsilon,Sedan,1,18800,2020.0,IT,New,Gasoline,Front Wheel Drive,Automatic,101,1200.0,5.0,5.0,Cloth,False,False,Dealer
+MINI,One D,Sedan,160000,7900,2014.0,BE,Used,Diesel,Front Wheel Drive,Manual,90,1598.0,4.0,3.0,Part leather,True,False,Dealer
+SEAT,Leon,Station wagon,117700,8950,2014.0,AT,Used,Diesel,Front Wheel Drive,Manual,110,1598.0,5.0,5.0,Cloth,True,False,Dealer
+Tesla,Model 3,Compact,190379,14884,2019.0,NL,Used,Electric,Rear Wheel Drive,Automatic,238,1598.0,5.0,5.0,Cloth,False,False,Dealer
+Lexus,LS 600,Sedan,306000,18000,2007.0,,Used,Electric/Gasoline,Front Wheel Drive,Semi-automatic,394,4969.0,5.0,4.0,Full leather,True,True,PrivateSeller
+Lexus,IS 220d,Sedan,237000,4500,2007.0,,Used,Diesel,Front Wheel Drive,Manual,177,2231.0,5.0,4.0,Cloth,True,True,PrivateSeller
+Dacia,Jogger,Van,7000,17499,2023.0,DE,Used,LPG,Front Wheel Drive,Manual,101,999.0,5.0,5.0,Cloth,False,True,Dealer
+Volvo,C30,Sedan,238600,4990,2007.0,DE,Used,Diesel,Front Wheel Drive,Automatic,179,2400.0,4.0,2.0,Cloth,False,True,Dealer
+Lancia,Delta,Sedan,96500,30000,1989.0,,Used,Gasoline,4WD,Manual,196,1981.0,5.0,5.0,alcantara,False,False,PrivateSeller
+Jeep,Renegade,Off-Road/Pick-up,47802,18900,2022.0,IT,Used,Electric/Gasoline,4WD,Automatic,131,1332.0,5.0,5.0,Cloth,True,True,Dealer
+Tesla,Model S,Sedan,10200,95000,2024.0,FR,Used,Electric,Front Wheel Drive,Automatic,1020,1598.0,5.0,4.0,Cloth,False,False,Dealer
+Porsche,Cayenne,Coupe,106664,68000,2022.0,IT,Used,Gasoline,4WD,Automatic,340,2995.0,5.0,5.0,Full leather,False,False,Dealer
+smart,forTwo,Convertible,38300,16470,2018.0,DE,Used,Gasoline,Rear Wheel Drive,Automatic,90,898.0,2.0,2.0,Full leather,True,True,Dealer
+Mitsubishi,Pajero Sport,Off-Road/Pick-up,209252,8850,2001.0,DE,Used,Gasoline,4WD,Automatic,177,2972.0,5.0,5.0,Full leather,True,True,Dealer
+smart,forTwo,Compact,132950,4400,2013.0,DE,Used,Gasoline,Front Wheel Drive,Semi-automatic,71,999.0,2.0,2.0,Cloth,False,False,Dealer
+Volvo,V60 Cross Country,Station wagon,15300,39500,2023.0,IT,Used,Electric/Diesel,4WD,Automatic,197,1969.0,5.0,5.0,Full leather,False,False,Dealer
+CUPRA,Ateca,Off-Road/Pick-up,101000,25390,2018.0,DE,Used,Gasoline,4WD,Automatic,300,1984.0,5.0,5.0,alcantara,False,False,Dealer
+Dodge,Durango,Off-Road/Pick-up,4400,75000,2023.0,IT,Used,Gasoline,4WD,Automatic,702,6200.0,7.0,5.0,Full leather,False,False,Dealer
+Porsche,Cayenne,Off-Road/Pick-up,230000,21000,2017.0,BE,Used,Electric/Gasoline,Front Wheel Drive,Automatic,333,2995.0,5.0,5.0,Full leather,False,False,Dealer
+Kia,Ceed / cee'd,Sedan,25297,20775,2021.0,DE,Used,Gasoline,Front Wheel Drive,Automatic,160,1482.0,5.0,5.0,Cloth,True,True,Dealer
+Audi,Q3,Off-Road/Pick-up,198951,12499,2013.0,BE,Used,Diesel,4WD,Automatic,163,1968.0,5.0,5.0,Full leather,True,True,Dealer
+Toyota,Aygo X,Sedan,11644,15900,2023.0,IT,Used,Gasoline,Front Wheel Drive,Manual,72,998.0,4.0,5.0,Other,False,False,Dealer
+Citroen,C3,Compact,159401,5350,2011.0,NL,Used,Gasoline,Front Wheel Drive,Manual,120,1598.0,5.0,5.0,Cloth,False,False,Dealer
+Skoda,Octavia,Station wagon,14028,27989,2025.0,DE,Used,Gasoline,Front Wheel Drive,Automatic,150,1498.0,5.0,5.0,Cloth,True,True,Dealer
+Dacia,Duster,Off-Road/Pick-up,8,24990,2020.0,DE,New,LPG,Front Wheel Drive,Manual,101,999.0,5.0,5.0,Cloth,True,True,Dealer
+Opel,Corsa,Compact,5169,14950,2023.0,BE,Used,Gasoline,Front Wheel Drive,Manual,101,1199.0,5.0,5.0,Cloth,False,False,Dealer
+Dacia,Sandero,Compact,106509,9950,2017.0,NL,Used,Gasoline,Front Wheel Drive,Automatic,90,898.0,5.0,5.0,Full leather,False,False,Dealer
+Lexus,LC 500h,Compact,65756,67500,2017.0,BE,Used,Electric/Gasoline,Rear Wheel Drive,Automatic,299,3456.0,4.0,2.0,Full leather,True,True,Dealer
+Alfa Romeo,Giulia,Sedan,90753,21790,2020.0,ES,Used,Diesel,Rear Wheel Drive,Automatic,190,2143.0,5.0,4.0,Cloth,False,False,Dealer
+Bentley,Continental,Convertible,56811,46500,2009.0,,Used,Gasoline,Front Wheel Drive,Automatic,559,5998.0,4.0,2.0,Cloth,False,False,PrivateSeller
+Dacia,Sandero,Sedan,1,17990,2025.0,IT,Used,LPG,Front Wheel Drive,Manual,91,999.0,5.0,5.0,Cloth,False,False,Dealer
+Dacia,Lodgy,Van,26548,17900,2022.0,DE,Used,Gasoline,Front Wheel Drive,Manual,131,1332.0,7.0,5.0,Cloth,True,True,Dealer
+Volvo,XC60,Off-Road/Pick-up,25973,48330,2024.0,DE,Used,Electric/Gasoline,4WD,Automatic,455,1969.0,5.0,5.0,Full leather,False,False,Dealer
+Aston Martin,DB9,Coupe,37000,59990,2004.0,FR,Used,Gasoline,Rear Wheel Drive,Automatic,455,5935.0,4.0,2.0,Full leather,False,True,Dealer
+Lexus,UX 300e,Off-Road/Pick-up,62176,24950,2021.0,NL,Used,Electric,Front Wheel Drive,Automatic,204,1598.0,5.0,5.0,Full leather,True,False,Dealer
+BYD,Seal,Sedan,1500,42890,2025.0,DE,Used,Electric,4WD,Automatic,530,1598.0,5.0,4.0,Full leather,True,True,Dealer
+SEAT,Ateca,Off-Road/Pick-up,100,34390,2025.0,DE,Used,Gasoline,Front Wheel Drive,Automatic,150,1498.0,5.0,5.0,Cloth,True,True,Dealer
+Volvo,XC60,Off-Road/Pick-up,93370,28700,2021.0,DE,Used,Gasoline,Front Wheel Drive,Automatic,197,1969.0,5.0,4.0,Full leather,True,False,Dealer
+Land Rover,Range Rover,Off-Road/Pick-up,69847,59950,2018.0,NL,Used,Electric/Gasoline,4WD,Automatic,404,1997.0,5.0,5.0,Full leather,True,True,Dealer
+Maserati,Ghibli,Coupe,75000,33500,2015.0,ES,Used,Gasoline,4WD,Automatic,411,2979.0,5.0,4.0,Cloth,False,False,Dealer
+Land Rover,Range Rover Sport,Off-Road/Pick-up,69800,40890,2018.0,DE,Used,Diesel,4WD,Automatic,258,2993.0,5.0,5.0,Full leather,False,False,Dealer
+SEAT,Ibiza,Sedan,10,19475,2025.0,DE,Used,Gasoline,Front Wheel Drive,Manual,116,999.0,5.0,5.0,Cloth,True,True,Dealer
+Mazda,CX-5,Off-Road/Pick-up,204000,6900,2013.0,IT,Used,Diesel,Front Wheel Drive,Manual,150,2191.0,5.0,5.0,Cloth,True,True,Dealer
+Jaguar,F-Pace,Off-Road/Pick-up,68500,23990,2020.0,IT,Used,Diesel,Front Wheel Drive,Automatic,179,1999.0,5.0,5.0,Full leather,False,False,Dealer
+Alfa Romeo,Spider,Convertible,23207,29000,1993.0,BE,Used,Gasoline,Rear Wheel Drive,Manual,117,1965.0,2.0,2.0,Full leather,False,True,Dealer
+Ford,Kuga,Off-Road/Pick-up,89230,12900,2015.0,IT,Used,Diesel,Front Wheel Drive,Manual,120,1997.0,5.0,5.0,Other,False,False,Dealer
+Abarth,Grande Punto,Sedan,176000,10500,2008.0,,Used,Gasoline,Front Wheel Drive,Manual,179,1368.0,4.0,3.0,Cloth,False,False,PrivateSeller
+Mitsubishi,Outlander,Off-Road/Pick-up,280000,10999,2014.0,ES,Used,Diesel,4WD,Automatic,150,2268.0,7.0,5.0,Cloth,False,False,Dealer
+Kia,Ceed / cee'd,Sedan,15330,17990,2025.0,DE,Used,Gasoline,Front Wheel Drive,Manual,99,998.0,5.0,5.0,Cloth,False,False,Dealer
+SEAT,Leon,Station wagon,142600,6650,2015.0,DE,Used,Gasoline,Front Wheel Drive,Automatic,110,1197.0,5.0,5.0,Cloth,False,True,Dealer
+Ford,C-Max,Van,49592,8950,2015.0,DE,Used,Gasoline,Front Wheel Drive,Manual,125,998.0,5.0,5.0,Cloth,False,True,Dealer
+Citroen,C4 Cactus,Sedan,69290,8290,2015.0,DE,Used,Gasoline,Front Wheel Drive,Manual,82,1199.0,5.0,4.0,Other,True,True,Dealer
+Fiat,Panda,Sedan,9200,10999,2023.0,IT,Used,Electric/Gasoline,Front Wheel Drive,Manual,69,999.0,4.0,5.0,Cloth,False,False,Dealer
+Audi,SQ7,Off-Road/Pick-up,250000,21980,2017.0,IT,Used,Diesel,4WD,Automatic,435,3956.0,5.0,5.0,Full leather,False,False,Dealer
+Suzuki,S-Cross,Off-Road/Pick-up,47000,19955,2021.0,NL,Used,Electric/Gasoline,Front Wheel Drive,Manual,129,1373.0,5.0,5.0,Cloth,True,False,Dealer
+Alfa Romeo,Tonale,Off-Road/Pick-up,72000,24750,2022.0,IT,Used,Electric/Gasoline,Front Wheel Drive,Automatic,131,1469.0,5.0,5.0,Cloth,False,False,Dealer
+Nissan,Qashqai,Off-Road/Pick-up,198000,7500,2016.0,IT,Used,Diesel,Front Wheel Drive,Manual,110,1461.0,5.0,5.0,Cloth,False,False,Dealer
+Jaguar,E-Pace,Off-Road/Pick-up,52838,24490,2020.0,DE,Used,Gasoline,4WD,Automatic,200,1997.0,5.0,4.0,Full leather,True,True,Dealer
+Ferrari,360,Convertible,44600,95000,2001.0,DE,Used,Gasoline,Front Wheel Drive,Automatic,400,3586.0,2.0,2.0,Cloth,True,False,Dealer
+Renault,Megane E-Tech,Sedan,67493,19880,2022.0,DE,Used,Electric,Front Wheel Drive,Automatic,218,1598.0,5.0,5.0,Cloth,True,True,Dealer
+Maserati,Grecale,Off-Road/Pick-up,0,79900,2020.0,IT,New,Electric/Gasoline,4WD,Automatic,250,1995.0,5.0,5.0,Full leather,False,False,Dealer
+Dodge,RAM,Off-Road/Pick-up,68260,62900,2021.0,DE,Used,LPG,4WD,Automatic,401,5654.0,5.0,4.0,Part leather,False,False,Dealer
+Suzuki,Jimny,Off-Road/Pick-up,49601,29990,2018.0,IT,Used,Gasoline,4WD,Manual,102,1462.0,4.0,3.0,Cloth,True,True,Dealer
+Skoda,Fabia,Sedan,74339,12900,2023.0,IT,Used,Gasoline,Front Wheel Drive,Manual,80,999.0,5.0,5.0,Cloth,False,False,Dealer
+Alfa Romeo,Tonale,Off-Road/Pick-up,63800,24500,2023.0,IT,Used,Diesel,Front Wheel Drive,Automatic,131,1598.0,5.0,5.0,Cloth,False,False,Dealer
+Audi,TT,Convertible,83900,16990,2011.0,DE,Used,Gasoline,4WD,Automatic,275,1984.0,5.0,2.0,Full leather,False,False,Dealer
+CUPRA,Leon,Sedan,54950,27950,2022.0,DE,Used,Gasoline,Front Wheel Drive,Automatic,300,1984.0,5.0,5.0,Cloth,False,False,Dealer
+Lancia,Ypsilon,Sedan,65000,8200,2022.0,IT,Used,Electric/Gasoline,Front Wheel Drive,Manual,69,999.0,4.0,5.0,Cloth,True,False,Dealer
+Tesla,Model Y,Off-Road/Pick-up,39375,39950,2024.0,DE,Used,Electric,4WD,Automatic,514,1598.0,5.0,5.0,Full leather,True,True,Dealer
+Bentley,Continental GT,Coupe,84280,59990,2012.0,NL,Used,Gasoline,4WD,Automatic,635,5993.0,4.0,2.0,Full leather,False,False,Dealer
+Hyundai,i20,Compact,34282,14370,2023.0,DE,Used,Gasoline,Front Wheel Drive,Manual,101,998.0,5.0,5.0,Cloth,False,False,Dealer
+Alfa Romeo,Stelvio,Off-Road/Pick-up,48100,23990,2022.0,IT,Used,Diesel,Rear Wheel Drive,Automatic,160,2143.0,5.0,5.0,Other,False,True,Dealer
+Fiat,500L,Sedan,28367,12890,2022.0,IT,Used,Gasoline,Front Wheel Drive,Manual,95,1368.0,5.0,5.0,Cloth,False,False,Dealer
+Volvo,S60,Sedan,198291,11950,2015.0,NL,Used,Diesel,Front Wheel Drive,Automatic,224,1969.0,5.0,4.0,Part leather,True,False,Dealer
+CUPRA,Formentor,Off-Road/Pick-up,25600,23990,2022.0,DE,Used,Gasoline,Front Wheel Drive,Automatic,150,1498.0,5.0,5.0,Cloth,True,True,Dealer
+MG,HS,Off-Road/Pick-up,71930,16091,2023.0,ES,Used,Gasoline,Front Wheel Drive,Automatic,162,1490.0,5.0,5.0,Cloth,False,False,Dealer
+Renault,Clio,Sedan,22113,15500,2024.0,IT,Used,LPG,Front Wheel Drive,Manual,101,999.0,5.0,5.0,Cloth,False,True,Dealer
+Renault,R 4,Sedan,10,28490,2025.0,DE,Used,Electric,Front Wheel Drive,Automatic,122,1598.0,5.0,5.0,Cloth,False,False,Dealer
+Kia,Sportage,Off-Road/Pick-up,19950,26890,2024.0,DE,Used,Gasoline,Front Wheel Drive,Manual,150,1598.0,5.0,5.0,Part leather,True,True,Dealer
+Renault,Captur,Off-Road/Pick-up,8035,19880,2024.0,DE,Used,Gasoline,Front Wheel Drive,Manual,91,999.0,5.0,5.0,Cloth,True,True,Dealer
+Bentley,Continental GTC,Convertible,40500,59999,2008.0,IT,Used,Gasoline,4WD,Automatic,560,5998.0,4.0,2.0,Full leather,False,False,Dealer
+Land Rover,Range Rover Sport,Off-Road/Pick-up,52330,79000,2021.0,BE,Used,Gasoline,4WD,Automatic,575,4999.0,5.0,5.0,Full leather,False,False,Dealer
+MG,ZS,Off-Road/Pick-up,5034,21950,2025.0,IT,Used,Electric/Gasoline,Front Wheel Drive,Automatic,102,1498.0,5.0,5.0,Full leather,False,False,Dealer
+Suzuki,Swift,Sedan,0,15500,2020.0,IT,New,Electric/Gasoline,Front Wheel Drive,Manual,83,1197.0,5.0,5.0,Cloth,False,False,Dealer
+Chevrolet,Camaro,Coupe,37353,35950,2019.0,DE,Used,Gasoline,Rear Wheel Drive,Automatic,461,6162.0,4.0,2.0,Full leather,True,True,Dealer
+Audi,S6,Station wagon,89340,45880,2020.0,DE,Used,Diesel,4WD,Automatic,349,2967.0,5.0,4.0,alcantara,True,True,Dealer
+Aston Martin,Vantage,Coupe,21949,59950,2007.0,FR,Used,Gasoline,Rear Wheel Drive,Automatic,385,4282.0,4.0,2.0,Full leather,False,False,Dealer
+Land Rover,Range Rover Evoque,Off-Road/Pick-up,54800,35800,2021.0,IT,Used,Electric/Diesel,4WD,Automatic,204,1997.0,5.0,5.0,Full leather,True,False,Dealer
+Kia,Sorento,Off-Road/Pick-up,60000,29900,2023.0,IT,Used,Electric/Gasoline,4WD,Automatic,179,1598.0,7.0,5.0,Cloth,False,False,Dealer
+Mazda,CX-30,Off-Road/Pick-up,1110,31550,2025.0,DE,Used,Gasoline,4WD,Manual,186,1998.0,5.0,5.0,Cloth,True,True,Dealer
+Maserati,GranCabrio,Convertible,28500,54900,2014.0,,Used,Gasoline,Rear Wheel Drive,Automatic,450,4691.0,4.0,2.0,Full leather,False,True,PrivateSeller
+Rolls-Royce,Cloud,Sedan,5707,35450,1961.0,,Used,Gasoline,Rear Wheel Drive,Automatic,188,6200.0,5.0,5.0,Full leather,False,False,PrivateSeller
+Peugeot,208,Sedan,0,16500,2020.0,IT,New,Gasoline,Front Wheel Drive,Manual,101,1199.0,5.0,5.0,Cloth,False,False,Dealer
+Lancia,Ypsilon,Sedan,11000,12400,2023.0,IT,Used,Electric/Gasoline,Front Wheel Drive,Manual,69,999.0,5.0,5.0,Cloth,True,False,Dealer
+Honda,CR-V,Off-Road/Pick-up,115000,8900,2007.0,IT,Used,Gasoline,4WD,Manual,150,1997.0,5.0,5.0,Cloth,True,False,Dealer
+Nissan,Qashqai,Off-Road/Pick-up,242226,4800,2012.0,IT,Used,Diesel,4WD,Automatic,150,1995.0,5.0,5.0,Other,False,True,Dealer
+Skoda,Octavia,Station wagon,59503,21490,2020.0,BE,Used,Diesel,Front Wheel Drive,Automatic,150,1968.0,5.0,5.0,Cloth,True,True,Dealer
+Mitsubishi,Space Star,Compact,181898,3495,2013.0,NL,Used,Gasoline,Front Wheel Drive,Manual,71,999.0,5.0,5.0,Cloth,True,False,Dealer
+smart,forTwo,Sedan,39000,10500,2019.0,DE,Used,Gasoline,Front Wheel Drive,Manual,71,999.0,2.0,3.0,Cloth,True,True,Dealer
+Opel,Zafira Tourer,Van,252753,6290,2016.0,DE,Used,Diesel,Front Wheel Drive,Automatic,131,1956.0,5.0,5.0,Cloth,True,True,Dealer
+Volvo,XC40,Off-Road/Pick-up,0,32800,2020.0,IT,New,Electric/Gasoline,Front Wheel Drive,Automatic,163,1969.0,5.0,5.0,Cloth,False,False,Dealer
+Kia,Niro,Off-Road/Pick-up,63118,16320,2020.0,IT,Used,Electric/Gasoline,Front Wheel Drive,Automatic,105,1580.0,5.0,5.0,Cloth,False,False,Dealer
+Volkswagen,T7 California,Van,10,49900,2020.0,DE,New,Diesel,Front Wheel Drive,Automatic,150,1968.0,6.0,4.0,Cloth,False,True,Dealer
+Maserati,GranTurismo,Coupe,40750,42989,2010.0,DE,Used,Gasoline,Rear Wheel Drive,Automatic,439,4691.0,5.0,5.0,Full leather,True,True,Dealer
+Audi,Q5,Off-Road/Pick-up,126000,23490,2017.0,DE,Used,Diesel,4WD,Automatic,190,1968.0,5.0,4.0,Cloth,True,True,Dealer
+BMW,218,Sedan,122000,24990,2021.0,IT,Used,Diesel,Front Wheel Drive,Semi-automatic,150,1995.0,5.0,4.0,Cloth,True,True,Dealer
+Toyota,Prius,Sedan,149700,13900,2017.0,IT,Used,Electric/Gasoline,Front Wheel Drive,Automatic,98,1798.0,5.0,5.0,Cloth,True,True,Dealer
+Porsche,Taycan,Sedan,113464,47400,2021.0,NL,Used,Electric,Rear Wheel Drive,Automatic,381,1598.0,4.0,4.0,Full leather,True,False,Dealer
+Toyota,bZ4X,Off-Road/Pick-up,25500,29890,2023.0,DE,Used,Electric,Front Wheel Drive,Automatic,204,1598.0,5.0,5.0,Cloth,False,False,Dealer
+Nissan,X-Trail,Off-Road/Pick-up,25,31490,2025.0,DE,Used,Gasoline,Front Wheel Drive,Automatic,204,1500.0,5.0,5.0,Cloth,True,True,Dealer
+MINI,One,Compact,213642,3745,2010.0,NL,Used,Gasoline,Front Wheel Drive,Manual,97,1397.0,4.0,3.0,Cloth,True,False,Dealer
+Tesla,Model 3,Compact,121713,28895,2021.0,NL,Used,Electric,4WD,Automatic,441,1598.0,5.0,5.0,Cloth,False,False,Dealer
+Lexus,GS 300,Sedan,219000,7500,1999.0,,Used,Gasoline,Rear Wheel Drive,Automatic,219,2997.0,5.0,4.0,Full leather,True,False,PrivateSeller
+Alfa Romeo,Giulia,Sedan,30800,79990,2021.0,IT,Used,Gasoline,Rear Wheel Drive,Automatic,510,2891.0,5.0,4.0,alcantara,False,False,Dealer
+BMW,120,Sedan,6100,26900,2024.0,DE,Used,Gasoline,Front Wheel Drive,Automatic,170,1499.0,5.0,5.0,Cloth,True,True,Dealer
+Citroen,Grand C4 SpaceTourer,Van,130000,8800,2015.0,DE,Used,Diesel,Front Wheel Drive,Manual,120,1598.0,5.0,5.0,Cloth,True,True,Dealer
+Porsche,Panamera,Sedan,111900,58900,2019.0,IT,Used,Electric/Gasoline,4WD,Automatic,462,2894.0,4.0,5.0,Full leather,False,True,Dealer
+Abarth,595,Compact,21000,19500,2021.0,,Used,Gasoline,Front Wheel Drive,Manual,165,1368.0,4.0,3.0,Cloth,False,False,PrivateSeller
+Suzuki,Jimny,Off-Road/Pick-up,81165,16900,2014.0,IT,Used,Gasoline,4WD,Manual,86,1328.0,4.0,3.0,Cloth,False,False,Dealer
+Renault,Scenic,Off-Road/Pick-up,0,25500,2020.0,IT,New,Electric,Front Wheel Drive,Automatic,75,1598.0,5.0,5.0,Other,False,False,Dealer
+Skoda,Octavia,Station wagon,64500,16800,2020.0,DE,Used,Gasoline,Front Wheel Drive,Manual,110,999.0,5.0,5.0,Cloth,True,True,Dealer
+Ford,Transit Custom,Van,141000,11988,2015.0,DE,Used,Diesel,Front Wheel Drive,Manual,101,2198.0,9.0,4.0,Cloth,False,False,Dealer
+MG,ZS,Off-Road/Pick-up,10,16980,2024.0,DE,Used,Gasoline,Front Wheel Drive,Manual,106,1498.0,5.0,4.0,Full leather,True,True,Dealer
+Toyota,Yaris,Sedan,60053,11900,2017.0,IT,Used,Electric/Gasoline,Front Wheel Drive,Automatic,101,1497.0,5.0,5.0,Other,False,False,Dealer
+Land Rover,Range Rover Velar,Off-Road/Pick-up,155000,25900,2018.0,ES,Used,Diesel,4WD,Automatic,300,2993.0,5.0,5.0,Cloth,False,False,Dealer
+Hyundai,TUCSON,Off-Road/Pick-up,45900,24990,2021.0,DE,Used,Gasoline,Front Wheel Drive,Automatic,177,1598.0,5.0,4.0,Part leather,True,True,Dealer
+Rolls-Royce,Silver Spur,Sedan,96736,9950,1981.0,NL,Used,Gasoline,Rear Wheel Drive,Automatic,201,6750.0,4.0,4.0,Cloth,False,False,Dealer
+Jeep,Renegade,Off-Road/Pick-up,132000,11990,2017.0,IT,Used,Diesel,Front Wheel Drive,Semi-automatic,120,1598.0,5.0,5.0,Cloth,True,True,Dealer
+Jeep,Avenger,Off-Road/Pick-up,10,24900,2025.0,IT,Used,Electric/Gasoline,Front Wheel Drive,Automatic,110,1199.0,5.0,5.0,Cloth,False,True,Dealer
+Audi,A3,Compact,238673,3950,2009.0,NL,Used,Gasoline,Front Wheel Drive,Manual,102,1595.0,5.0,3.0,Cloth,True,False,Dealer
+Maserati,Ghibli,Coupe,30000,72990,2022.0,AT,Used,Electric/Gasoline,Rear Wheel Drive,Automatic,330,1995.0,5.0,4.0,Full leather,True,True,Dealer
+Volvo,V40,Station wagon,96254,17290,2019.0,DE,Used,Diesel,Front Wheel Drive,Automatic,150,1969.0,5.0,5.0,Cloth,False,False,Dealer
+Fiat,Panda,Sedan,1,12900,2025.0,IT,Used,Electric/Gasoline,Front Wheel Drive,Manual,69,999.0,5.0,5.0,Cloth,False,False,Dealer
+SEAT,Alhambra,Van,198215,10290,2011.0,DE,Used,Diesel,Front Wheel Drive,Manual,140,1968.0,7.0,5.0,Cloth,True,True,Dealer
+Peugeot,308,Station wagon,95015,15507,2022.0,DE,Used,Gasoline,Front Wheel Drive,Automatic,131,1199.0,5.0,5.0,alcantara,True,False,Dealer
+Tesla,Model Y,Off-Road/Pick-up,136000,28000,2021.0,,Used,Electric,Front Wheel Drive,Automatic,208,1598.0,5.0,5.0,Cloth,False,True,PrivateSeller
+Fiat,Grande Panda,Sedan,0,15950,2020.0,IT,New,Electric/Gasoline,Front Wheel Drive,Automatic,101,1199.0,5.0,5.0,Cloth,False,False,Dealer
+Corvette,C5,Convertible,94561,33900,2003.0,DE,Used,Gasoline,Rear Wheel Drive,Automatic,345,5665.0,2.0,2.0,Full leather,True,False,Dealer
+Kia,Venga,Van,180000,4400,2014.0,IT,Used,LPG,Front Wheel Drive,Manual,90,1396.0,5.0,5.0,Cloth,False,False,Dealer
+Fiat,Qubo,Van,105600,7900,2016.0,IT,Used,Diesel,Front Wheel Drive,Manual,80,1248.0,5.0,5.0,Cloth,False,False,Dealer
+Nissan,Qashqai,Off-Road/Pick-up,83355,16590,2019.0,DE,Used,Gasoline,Front Wheel Drive,Automatic,159,1332.0,5.0,5.0,Cloth,True,True,Dealer
+SEAT,Leon,Sedan,88528,14900,2021.0,IT,Used,Electric/Gasoline,Front Wheel Drive,Automatic,150,1498.0,5.0,5.0,Cloth,False,False,Dealer
+Volvo,V50,Station wagon,332983,3990,2009.0,DE,Used,Diesel,Front Wheel Drive,Manual,179,2400.0,5.0,4.0,Cloth,True,False,Dealer
+Lexus,RX 450h,Off-Road/Pick-up,161312,31980,2020.0,DE,Used,Electric/Gasoline,4WD,Automatic,313,3456.0,5.0,5.0,Full leather,True,True,Dealer
+Corvette,C8,Convertible,10,107400,2020.0,FR,New,Gasoline,Front Wheel Drive,Automatic,481,6162.0,2.0,2.0,Full leather,True,True,Dealer
+MG,HS,Off-Road/Pick-up,21366,23490,2024.0,BE,Used,Gasoline,Front Wheel Drive,Automatic,162,1490.0,5.0,5.0,Full leather,False,True,Dealer
+Alfa Romeo,Junior,Off-Road/Pick-up,1,27490,2025.0,IT,Used,Electric/Gasoline,Front Wheel Drive,Automatic,136,1199.0,5.0,5.0,Cloth,False,True,Dealer
+MG,MG3,Sedan,10,13400,2025.0,IT,Used,Gasoline,Front Wheel Drive,Manual,116,1598.0,5.0,5.0,Other,False,False,Dealer
+smart,forTwo,Compact,119090,8789,2011.0,DE,Used,Gasoline,Rear Wheel Drive,Automatic,102,999.0,2.0,2.0,Full leather,True,True,Dealer
+Volkswagen,Polo,Sedan,38027,21890,2022.0,DE,Used,Gasoline,Front Wheel Drive,Automatic,207,1984.0,5.0,5.0,Cloth,True,True,Dealer
+Suzuki,Jimny,Off-Road/Pick-up,163000,6950,2001.0,BE,Used,Gasoline,4WD,Manual,80,1298.0,4.0,3.0,Cloth,False,True,Dealer
+CUPRA,Formentor,Off-Road/Pick-up,18627,34888,2023.0,DE,Used,Electric/Gasoline,Front Wheel Drive,Automatic,245,1395.0,5.0,5.0,Full leather,True,True,Dealer
+Mercedes-Benz,E 350,Sedan,177100,12990,2011.0,DE,Used,Diesel,Front Wheel Drive,Automatic,265,2987.0,5.0,4.0,Part leather,True,False,Dealer
+Jaguar,XF,Sedan,22400,48999,2024.0,FR,Used,Others,Front Wheel Drive,Automatic,207,1997.0,5.0,4.0,Cloth,False,False,Dealer
+Renault,Kadjar,Off-Road/Pick-up,56325,14790,2020.0,DE,Used,Gasoline,Front Wheel Drive,Manual,140,1300.0,5.0,5.0,Cloth,False,True,Dealer
+Fiat,Doblo,Van,250000,3690,2016.0,DE,Used,Diesel,Front Wheel Drive,Manual,95,1598.0,5.0,4.0,Cloth,True,False,Dealer
+smart,forTwo,Compact,45990,13470,2019.0,DE,Used,Gasoline,Rear Wheel Drive,Automatic,71,999.0,2.0,2.0,Cloth,True,True,Dealer
+Skoda,Kodiaq,Off-Road/Pick-up,68312,29990,2022.0,BE,Used,Diesel,Front Wheel Drive,Automatic,150,1968.0,5.0,5.0,Cloth,True,True,Dealer
+Honda,Jazz,Sedan,30000,14990,2018.0,AT,Used,Gasoline,Front Wheel Drive,Manual,102,5.0,5.0,5.0,Cloth,True,True,Dealer
+Citroen,C3 Aircross,Off-Road/Pick-up,73000,11800,2022.0,IT,Used,Gasoline,Front Wheel Drive,Manual,110,1199.0,5.0,5.0,Other,False,False,Dealer
+Kia,ProCeed / pro_cee'd,Station wagon,13950,27500,2024.0,BE,Used,Gasoline,Front Wheel Drive,Automatic,140,1482.0,5.0,5.0,Part leather,False,True,Dealer
+Porsche,991,Coupe,53200,109900,2014.0,ES,Used,Gasoline,Rear Wheel Drive,Automatic,476,3799.0,4.0,2.0,Cloth,False,False,Dealer
+smart,forFour,Sedan,149000,2450,2005.0,DE,Used,Gasoline,Front Wheel Drive,Manual,95,1332.0,4.0,4.0,Cloth,True,True,Dealer
+Peugeot,5008,Van,24684,24990,2024.0,BE,Used,Gasoline,Front Wheel Drive,Automatic,131,1199.0,7.0,5.0,alcantara,False,True,Dealer
+Mazda,6,Compact,165172,5950,2008.0,NL,Used,Gasoline,Front Wheel Drive,Manual,120,1798.0,5.0,5.0,Cloth,True,False,Dealer
+Fiat,500X,Off-Road/Pick-up,206673,7999,2015.0,IT,Used,Diesel,Front Wheel Drive,Manual,120,1598.0,5.0,5.0,Cloth,True,False,Dealer
+Abarth,595,Compact,20130,18000,2019.0,IT,Used,Gasoline,Front Wheel Drive,Manual,165,1368.0,4.0,3.0,Full leather,True,True,Dealer
+Honda,Civic,Sedan,179378,12500,2017.0,,Used,Gasoline,Front Wheel Drive,Manual,182,1498.0,5.0,5.0,Cloth,False,False,PrivateSeller
+Mercedes-Benz,E 300,Station wagon,118585,24999,2019.0,BE,Used,Electric/Gasoline,Rear Wheel Drive,Automatic,306,1950.0,5.0,5.0,alcantara,False,True,Dealer
+Ford,EcoSport,Off-Road/Pick-up,144257,7990,2015.0,IT,Used,Diesel,Front Wheel Drive,Manual,90,1499.0,5.0,5.0,Other,False,True,Dealer
+Dacia,Duster,Off-Road/Pick-up,96865,12900,2022.0,IT,Used,Diesel,Front Wheel Drive,Manual,116,1461.0,5.0,5.0,Cloth,False,False,Dealer
+Toyota,Aygo,Compact,83593,8390,2019.0,NL,Used,Gasoline,Front Wheel Drive,Manual,72,998.0,4.0,5.0,Cloth,True,True,Dealer
+Alfa Romeo,147,Sedan,125000,22500,2002.0,IT,Used,Gasoline,Front Wheel Drive,Manual,252,3179.0,5.0,3.0,Full leather,True,True,Dealer
+Porsche,356,Convertible,16000,69356,1965.0,DE,Used,Gasoline,Rear Wheel Drive,Manual,90,1600.0,5.0,5.0,Part leather,False,False,Dealer
+Volvo,V40 Cross Country,Sedan,102000,11990,2018.0,IT,Used,Diesel,Front Wheel Drive,Manual,120,1969.0,5.0,5.0,Cloth,False,True,Dealer
+Lancia,Ypsilon,Sedan,52000,8800,2019.0,,Used,Gasoline,Front Wheel Drive,Manual,69,1242.0,4.0,5.0,Cloth,False,False,PrivateSeller
+Volvo,XC90,Off-Road/Pick-up,40814,54890,2023.0,DE,Used,Diesel,4WD,Automatic,235,1969.0,7.0,5.0,Full leather,False,False,Dealer
+Opel,Astra,Station wagon,73209,16890,2018.0,DE,Used,Gasoline,Front Wheel Drive,Automatic,200,1598.0,5.0,5.0,Full leather,True,True,Dealer
+Opel,Grandland X,Off-Road/Pick-up,69850,12990,2018.0,DE,Used,Gasoline,Front Wheel Drive,Manual,131,1598.0,5.0,5.0,Cloth,True,True,Dealer
+Lancia,Ypsilon,Sedan,49000,9990,2020.0,IT,Used,LPG,Front Wheel Drive,Manual,69,1242.0,4.0,5.0,Cloth,True,True,Dealer
+Audi,A3,Sedan,90602,29900,2023.0,IT,Used,Diesel,4WD,Automatic,200,1968.0,5.0,5.0,Cloth,False,False,Dealer
+BMW,116,Sedan,77409,11499,2017.0,DE,Used,Gasoline,Rear Wheel Drive,Manual,109,1499.0,5.0,4.0,Cloth,True,False,Dealer
+BMW,X1,Off-Road/Pick-up,107200,9990,2011.0,DE,Used,Diesel,4WD,Manual,143,1995.0,5.0,4.0,Cloth,False,False,Dealer
+MINI,Cooper Countryman,Off-Road/Pick-up,37341,28590,2024.0,BE,Used,Gasoline,Front Wheel Drive,Automatic,136,1499.0,5.0,2.0,Cloth,False,True,Dealer
+Opel,Insignia,Sedan,102239,9950,2017.0,BE,Used,Diesel,Front Wheel Drive,Automatic,136,1598.0,5.0,5.0,Full leather,False,False,Dealer
+SEAT,Leon e-Hybrid,Sedan,70196,19999,2021.0,BE,Used,Electric/Gasoline,Front Wheel Drive,Automatic,150,1395.0,5.0,5.0,Part leather,True,True,Dealer
+smart,forTwo,Compact,109000,3200,2008.0,,Used,Gasoline,Rear Wheel Drive,Semi-automatic,61,599.0,2.0,3.0,Cloth,False,False,PrivateSeller
+Dodge,Challenger,Coupe,132000,28000,2017.0,,Used,Gasoline,Rear Wheel Drive,Automatic,309,3600.0,5.0,2.0,Cloth,True,True,PrivateSeller
+Mazda,6e,Sedan,2500,36970,2025.0,DE,Used,Electric,Front Wheel Drive,Automatic,258,1598.0,5.0,5.0,Cloth,True,True,Dealer
+Skoda,Kodiaq,Off-Road/Pick-up,99837,22990,2017.0,BE,Used,Gasoline,4WD,Automatic,150,1395.0,7.0,5.0,Full leather,True,True,Dealer
+Peugeot,Rifter,Van,149900,14490,2021.0,DE,Used,Diesel,Front Wheel Drive,Manual,131,1499.0,5.0,5.0,Cloth,True,False,Dealer
+Land Rover,Range Rover Sport,Off-Road/Pick-up,10,103890,2020.0,AT,New,Electric/Gasoline,4WD,Automatic,400,2996.0,5.0,5.0,Full leather,True,True,Dealer
+Honda,HR-V,Off-Road/Pick-up,155650,9999,2017.0,DE,Used,Gasoline,Front Wheel Drive,Manual,131,1498.0,5.0,5.0,Cloth,True,False,Dealer
+Ford,Focus CC,Station wagon,42300,14701,2021.0,IT,Used,Electric/Gasoline,Front Wheel Drive,Manual,125,999.0,5.0,5.0,Cloth,False,False,Dealer
+CUPRA,Leon,Station wagon,79731,21480,2021.0,DE,Used,Electric/Gasoline,Front Wheel Drive,Automatic,245,1395.0,5.0,5.0,Cloth,True,True,Dealer
+Toyota,Corolla,Station wagon,10,33990,2025.0,DE,Used,Electric/Gasoline,Front Wheel Drive,Automatic,197,1987.0,5.0,5.0,Cloth,True,True,Dealer
+Fiat,500L,Sedan,59000,11900,2019.0,IT,Used,Gasoline,Front Wheel Drive,Manual,95,1368.0,5.0,5.0,Cloth,False,False,Dealer
+Dacia,Jogger,Station wagon,35590,16190,2023.0,ES,Used,Gasoline,Front Wheel Drive,Manual,110,999.0,5.0,5.0,Cloth,False,False,Dealer
+Volkswagen,Golf GTI,Compact,87300,22990,2017.0,DE,Used,Gasoline,Front Wheel Drive,Automatic,230,1984.0,5.0,5.0,Full leather,True,False,Dealer
+Ferrari,California,Convertible,48500,109900,2012.0,DE,Used,Gasoline,Rear Wheel Drive,Automatic,489,4297.0,4.0,4.0,Full leather,True,False,Dealer
+Citroen,Berlingo,Van,5,29700,2025.0,IT,Used,Diesel,Front Wheel Drive,Automatic,131,1499.0,5.0,5.0,Cloth,False,False,Dealer
+Lancia,Ypsilon,Sedan,129000,4800,2012.0,,Used,LPG,Front Wheel Drive,Manual,69,1242.0,5.0,5.0,Cloth,True,True,PrivateSeller
+Jeep,Compass,Off-Road/Pick-up,21701,26900,2023.0,IT,Used,Electric/Gasoline,Front Wheel Drive,Automatic,131,1469.0,5.0,5.0,Full leather,True,False,Dealer
+SEAT,Arona,Off-Road/Pick-up,61253,13490,2020.0,IT,Used,Diesel,Front Wheel Drive,Manual,95,1598.0,5.0,5.0,Other,False,False,Dealer
+Citroen,C5 Aircross,Off-Road/Pick-up,30900,15999,2022.0,BE,Used,Gasoline,Front Wheel Drive,Manual,131,1199.0,5.0,5.0,Cloth,False,False,Dealer
+Porsche,991,Convertible,148902,74900,2013.0,NL,Used,Gasoline,Rear Wheel Drive,Manual,400,3800.0,4.0,2.0,Full leather,True,False,Dealer
+Audi,A4 allroad,Station wagon,104796,21990,2016.0,BE,Used,Gasoline,4WD,Automatic,252,1984.0,5.0,5.0,Full leather,True,True,Dealer
+Mitsubishi,Eclipse Cross,Off-Road/Pick-up,18000,22980,2022.0,DE,Used,Electric/Gasoline,4WD,Automatic,98,2360.0,5.0,5.0,Cloth,False,True,Dealer
+Peugeot,3008,Off-Road/Pick-up,10,31940,2025.0,DE,Used,Gasoline,Front Wheel Drive,Automatic,145,1199.0,5.0,4.0,Part leather,True,True,Dealer
+Citroen,C3,Sedan,99000,3000,2008.0,IT,Used,CNG,Front Wheel Drive,Manual,73,1360.0,5.0,5.0,alcantara,False,False,Dealer
+Dodge,Challenger,Coupe,77239,32757,2020.0,ES,Used,Gasoline,Front Wheel Drive,Automatic,374,1598.0,5.0,3.0,Cloth,False,False,Dealer
+Suzuki,Vitara,Off-Road/Pick-up,68000,19500,2022.0,IT,Used,Electric/Gasoline,4WD,Automatic,129,1598.0,5.0,5.0,Other,False,False,Dealer
+Corvette,C1,Convertible,365,109999,1961.0,DE,Used,Gasoline,Front Wheel Drive,Manual,245,4454.0,5.0,5.0,Cloth,False,False,Dealer
+BMW,530,Sedan,112317,28949,2017.0,NL,Used,Gasoline,Rear Wheel Drive,Automatic,252,1998.0,5.0,4.0,Full leather,False,False,Dealer
+Audi,A1,Coupe,43813,16390,2014.0,DE,Used,Gasoline,Front Wheel Drive,Automatic,185,1390.0,4.0,4.0,Cloth,True,True,Dealer
+Audi,A6,Station wagon,94004,32790,2020.0,BE,Used,Diesel,4WD,Automatic,286,2967.0,5.0,5.0,Cloth,False,False,Dealer
+Dacia,Spring,Compact,24700,14490,2023.0,DE,Used,Electric,Front Wheel Drive,Automatic,65,1598.0,4.0,5.0,Full leather,False,False,Dealer
+smart,forTwo,Compact,59000,13990,2019.0,IT,Used,Gasoline,Rear Wheel Drive,Automatic,71,998.0,2.0,3.0,Cloth,False,True,Dealer
+Hyundai,TUCSON,Off-Road/Pick-up,10,27740,2025.0,AT,Used,Gasoline,Front Wheel Drive,Manual,160,1598.0,5.0,5.0,Cloth,True,False,Dealer
+Suzuki,Ignis,Off-Road/Pick-up,6951,16999,2023.0,FR,Used,Electric/Gasoline,Front Wheel Drive,Automatic,84,1197.0,4.0,5.0,Cloth,False,False,Dealer
+Jeep,Compass,Off-Road/Pick-up,29000,23490,2021.0,IT,Used,Electric/Gasoline,4WD,Automatic,179,1332.0,5.0,5.0,Full leather,False,True,Dealer
+BYD,Atto 3,Off-Road/Pick-up,22000,29500,2024.0,,Used,Electric,Front Wheel Drive,Automatic,204,1598.0,5.0,5.0,Part leather,True,True,PrivateSeller
+BYD,Seal U,Off-Road/Pick-up,190,32970,2025.0,DE,Used,Electric/Gasoline,Front Wheel Drive,Automatic,218,1498.0,5.0,5.0,Other,True,True,Dealer
+MINI,John Cooper Works,Compact,5742,40995,2025.0,BE,Used,Gasoline,Front Wheel Drive,Automatic,231,1998.0,4.0,3.0,Part leather,True,True,Dealer
+CUPRA,Formentor,Off-Road/Pick-up,62035,26745,2021.0,NL,Used,Electric/Gasoline,Front Wheel Drive,Automatic,245,1395.0,5.0,5.0,Part leather,True,False,Dealer
+Porsche,Panamera,Sedan,44689,101750,2022.0,DE,Used,Gasoline,4WD,Automatic,480,3996.0,4.0,4.0,alcantara,False,False,Dealer
+Fiat,500,Compact,45000,11200,2020.0,IT,Used,Electric/Gasoline,Front Wheel Drive,Manual,69,999.0,4.0,3.0,Cloth,True,False,Dealer
+Alfa Romeo,Tonale,Off-Road/Pick-up,139000,19800,2022.0,IT,Used,Electric/Gasoline,Front Wheel Drive,Semi-automatic,131,1469.0,5.0,5.0,Velour,True,True,Dealer
+Kia,EV3,Off-Road/Pick-up,3500,31985,2025.0,DE,Used,Electric,Front Wheel Drive,Automatic,204,1598.0,5.0,5.0,Full leather,True,True,Dealer
+Citroen,E-C4 Electric,Sedan,9988,16200,2021.0,IT,Used,Electric,Front Wheel Drive,Automatic,77,1598.0,5.0,5.0,Other,True,False,Dealer
+smart,forFour,Compact,58229,11850,2018.0,IT,Used,Gasoline,Front Wheel Drive,Manual,90,898.0,4.0,5.0,Full leather,True,False,Dealer
+Porsche,Panamera,Compact,53943,74950,2021.0,NL,Used,Electric/Gasoline,4WD,Automatic,330,2894.0,4.0,5.0,Full leather,True,False,Dealer
+Volvo,S90,Sedan,26641,41249,2024.0,DE,Used,Electric/Gasoline,4WD,Automatic,455,1969.0,5.0,4.0,Full leather,True,False,Dealer
+Dodge,Avenger,Sedan,195105,3750,2010.0,NL,Used,Gasoline,Front Wheel Drive,Manual,156,1998.0,5.0,4.0,Full leather,True,False,Dealer
+Mitsubishi,Eclipse Cross,Off-Road/Pick-up,19730,26690,2022.0,DE,Used,Electric/Gasoline,4WD,Automatic,188,2360.0,5.0,5.0,Full leather,False,False,Dealer
+Hyundai,TUCSON,Off-Road/Pick-up,20,38550,2025.0,DE,Used,Electric/Gasoline,4WD,Automatic,215,1598.0,5.0,5.0,Cloth,True,True,Dealer
+Fiat,Tipo,Station wagon,80246,9960,2019.0,DE,Used,Gasoline,Front Wheel Drive,Manual,120,1368.0,5.0,5.0,Cloth,True,True,Dealer
+Lancia,Ypsilon,Sedan,227000,3900,2013.0,IT,Used,CNG,Front Wheel Drive,Manual,84,875.0,4.0,5.0,Cloth,True,False,Dealer
+Opel,Mokka,Off-Road/Pick-up,59917,8780,2016.0,DE,Used,Gasoline,Front Wheel Drive,Manual,116,1598.0,5.0,5.0,Cloth,True,True,Dealer
+Toyota,Corolla Cross,Off-Road/Pick-up,31940,29990,2023.0,DE,Used,Electric/Gasoline,4WD,Automatic,197,1987.0,5.0,5.0,Cloth,True,True,Dealer
+BYD,Dolphin,Compact,10,23990,2020.0,DE,New,Electric,Front Wheel Drive,Automatic,156,1598.0,4.0,5.0,Other,True,True,Dealer
+Mitsubishi,Eclipse Cross,Off-Road/Pick-up,104000,15990,2020.0,DE,Used,Gasoline,Front Wheel Drive,Automatic,163,1499.0,5.0,4.0,Cloth,True,True,Dealer
+Honda,CR-Z,Coupe,125372,5490,2010.0,DE,Used,Electric/Gasoline,Front Wheel Drive,Manual,114,1497.0,4.0,2.0,Cloth,False,False,Dealer
+Mitsubishi,Pajero,Off-Road/Pick-up,209112,11999,2005.0,NL,Used,Gasoline,4WD,Automatic,170,2972.0,5.0,5.0,Full leather,True,False,Dealer
+BYD,Seal U,Off-Road/Pick-up,25535,34745,2025.0,NL,Used,Electric/Gasoline,Front Wheel Drive,Automatic,218,1498.0,5.0,5.0,Other,True,False,Dealer
+Fiat,Tipo,Sedan,1,17200,2025.0,IT,Used,Diesel,Front Wheel Drive,Manual,131,1598.0,5.0,5.0,Cloth,False,False,Dealer
+Honda,Civic,Sedan,217437,3990,2009.0,,Used,Gasoline,Front Wheel Drive,Manual,140,1799.0,5.0,5.0,Velour,False,True,PrivateSeller
+Mazda,6,Station wagon,93460,18990,2017.0,AT,Used,Diesel,4WD,Automatic,175,2191.0,5.0,5.0,Full leather,True,True,Dealer
+Hyundai,i20,Sedan,65000,11990,2020.0,DE,Used,Gasoline,Front Wheel Drive,Manual,84,1248.0,5.0,5.0,Cloth,False,False,Dealer
+Fiat,Doblo,Station wagon,171000,7900,2014.0,IT,Used,Diesel,Front Wheel Drive,Manual,105,1598.0,5.0,5.0,Cloth,False,False,Dealer
+Abarth,500,Sedan,139000,8799,2013.0,DE,Used,Gasoline,Front Wheel Drive,Manual,135,1368.0,4.0,2.0,Other,True,True,Dealer
+MG,HS,Off-Road/Pick-up,15000,25470,2025.0,IT,Used,Gasoline,Front Wheel Drive,Automatic,170,1496.0,5.0,5.0,Cloth,False,False,Dealer
+MINI,Cooper,Compact,56851,22990,2023.0,BE,Used,Gasoline,Front Wheel Drive,Automatic,136,1499.0,4.0,3.0,Cloth,True,True,Dealer
+Suzuki,Jimny,Off-Road/Pick-up,10,40900,2025.0,IT,Used,Gasoline,4WD,Automatic,101,1598.0,5.0,5.0,Other,False,False,Dealer
+Suzuki,SX4,Compact,104329,8750,2012.0,ES,Used,Gasoline,Front Wheel Drive,Manual,120,1586.0,5.0,5.0,Cloth,False,False,Dealer
+Citroen,C5 Aircross,Off-Road/Pick-up,85000,13900,2019.0,IT,Used,Gasoline,Front Wheel Drive,Manual,131,1199.0,5.0,5.0,Cloth,True,True,Dealer
+Audi,RS5,Coupe,112500,28990,2011.0,DE,Used,Gasoline,4WD,Automatic,450,2995.0,4.0,4.0,Full leather,False,False,Dealer
+Jeep,Renegade,Off-Road/Pick-up,66000,15900,2023.0,IT,Used,Electric/Gasoline,Front Wheel Drive,Automatic,131,1469.0,5.0,5.0,Cloth,True,True,Dealer
+Peugeot,2008,Off-Road/Pick-up,99624,13990,2021.0,BE,Used,Diesel,Front Wheel Drive,Manual,110,1499.0,5.0,5.0,Cloth,True,False,Dealer
+Maserati,GranTurismo,Coupe,69812,45490,2011.0,DE,Used,Gasoline,Rear Wheel Drive,Automatic,441,4691.0,4.0,2.0,Full leather,False,True,Dealer
+Renault,Wind,Convertible,97825,7950,2012.0,NL,Used,Gasoline,Front Wheel Drive,Manual,135,1598.0,2.0,2.0,Full leather,True,True,Dealer
+Renault,Captur,Off-Road/Pick-up,26000,16800,2024.0,IT,Used,Gasoline,Front Wheel Drive,Manual,91,999.0,5.0,5.0,Cloth,False,False,Dealer
+Renault,R 4,Sedan,1500,29490,2025.0,DE,Used,Electric,Front Wheel Drive,Automatic,150,1598.0,5.0,5.0,Cloth,False,True,Dealer
+Renault,Clio,Compact,98921,10444,2020.0,NL,Used,Gasoline,Front Wheel Drive,Manual,101,999.0,5.0,5.0,Cloth,True,False,Dealer
+MG,ZS,Off-Road/Pick-up,52898,15845,2022.0,NL,Used,Electric,Front Wheel Drive,Automatic,177,1598.0,5.0,5.0,Cloth,True,False,Dealer
+smart,forTwo,Compact,97000,4150,2009.0,IT,Used,Gasoline,Rear Wheel Drive,Automatic,71,999.0,2.0,3.0,Velour,False,False,Dealer
+Peugeot,308,Sedan,34477,14490,2021.0,DE,Used,Diesel,Front Wheel Drive,Manual,131,1499.0,5.0,5.0,Full leather,True,True,Dealer
+Peugeot,Partner,Station wagon,91287,10400,2018.0,BE,Used,Gasoline,Front Wheel Drive,Manual,110,1199.0,5.0,5.0,Cloth,False,False,Dealer
+Land Rover,Range Rover,Off-Road/Pick-up,128000,30900,2015.0,IT,Used,Electric/Diesel,4WD,Automatic,292,1598.0,5.0,5.0,Full leather,True,True,Dealer
+Volkswagen,Passat Variant,Station wagon,99870,14990,2018.0,DE,Used,Gasoline,Front Wheel Drive,Automatic,150,1395.0,5.0,5.0,Cloth,True,True,Dealer
+SEAT,Ibiza,Compact,158985,12450,2019.0,NL,Used,Gasoline,Front Wheel Drive,Manual,95,999.0,5.0,5.0,Cloth,True,False,Dealer
+Jeep,Avenger,Off-Road/Pick-up,10,25900,2025.0,IT,Used,Electric/Gasoline,Front Wheel Drive,Semi-automatic,109,1199.0,5.0,5.0,Other,False,False,Dealer
+Land Rover,Discovery,Off-Road/Pick-up,84950,34950,2020.0,BE,Used,Diesel,4WD,Automatic,241,1999.0,5.0,5.0,Full leather,False,False,Dealer
+Fiat,500,Compact,75500,9899,2017.0,DE,Used,Gasoline,Front Wheel Drive,Automatic,86,1368.0,4.0,2.0,Cloth,True,True,Dealer
+Toyota,Corolla,Sedan,69000,17900,2022.0,IT,Used,Electric/Gasoline,Front Wheel Drive,Automatic,98,1798.0,5.0,5.0,Cloth,True,False,Dealer
+Jaguar,XKR,Convertible,98500,41999,2008.0,DE,Used,Gasoline,Rear Wheel Drive,Automatic,416,4196.0,4.0,2.0,Full leather,False,False,Dealer
+MINI,Cooper Countryman,Off-Road/Pick-up,48000,22880,2020.0,AT,Used,Diesel,Front Wheel Drive,Automatic,150,1995.0,5.0,5.0,Cloth,True,True,Dealer
+smart,forTwo,Compact,65761,12500,2016.0,BE,Used,Gasoline,Rear Wheel Drive,Automatic,71,999.0,2.0,3.0,Full leather,True,True,Dealer
+Skoda,Superb,Station wagon,95224,17490,2015.0,DE,Used,Diesel,Front Wheel Drive,Automatic,190,1968.0,5.0,4.0,Cloth,True,True,Dealer
+Maserati,Grecale,Off-Road/Pick-up,78174,47950,2023.0,DE,Used,Gasoline,4WD,Automatic,300,1995.0,5.0,5.0,Full leather,True,True,Dealer
+Ferrari,F355,Convertible,31000,97750,1999.0,BE,Used,Gasoline,Rear Wheel Drive,Automatic,379,3500.0,2.0,2.0,Full leather,False,False,Dealer
+Skoda,Kamiq,Off-Road/Pick-up,125,21480,2025.0,DE,Used,Gasoline,Front Wheel Drive,Manual,116,999.0,5.0,4.0,Cloth,True,True,Dealer
+MG,ZS,Off-Road/Pick-up,24000,13600,2024.0,IT,Used,Gasoline,Front Wheel Drive,Manual,106,1498.0,5.0,5.0,Full leather,True,False,Dealer
+Corvette,C3,Coupe,125000,28950,1975.0,,Used,Gasoline,Rear Wheel Drive,Automatic,165,5704.0,2.0,2.0,Full leather,False,True,PrivateSeller
+Jeep,Avenger,Off-Road/Pick-up,63163,15250,2023.0,ES,Used,Gasoline,Front Wheel Drive,Manual,101,1199.0,5.0,5.0,Cloth,False,False,Dealer
+Jaguar,I-Pace,Sedan,69920,25990,2019.0,AT,Used,Electric,4WD,Automatic,400,1598.0,5.0,5.0,Cloth,False,False,Dealer
+Mitsubishi,Space Star,Sedan,5,14970,2024.0,DE,Used,Gasoline,Front Wheel Drive,Manual,71,1193.0,5.0,5.0,Cloth,False,False,Dealer
+Citroen,C5 X,Sedan,32600,16980,2024.0,DE,Used,Gasoline,Front Wheel Drive,Automatic,131,1199.0,5.0,5.0,Part leather,False,False,Dealer
+Kia,Sorento,Off-Road/Pick-up,9811,47565,2025.0,DE,Used,Diesel,Front Wheel Drive,Automatic,193,2151.0,7.0,5.0,Full leather,True,True,Dealer
+Hyundai,TUCSON,Off-Road/Pick-up,71000,19990,2021.0,DE,Used,Gasoline,Front Wheel Drive,Manual,179,1598.0,5.0,5.0,Cloth,False,True,Dealer
+Toyota,C-HR,Off-Road/Pick-up,62762,18490,2022.0,IT,Used,Electric/Gasoline,Front Wheel Drive,Automatic,122,1798.0,5.0,5.0,Part leather,False,True,Dealer
+Ford,Ka/Ka+,Sedan,217000,2900,2011.0,IT,Used,Gasoline,Front Wheel Drive,Manual,69,1242.0,4.0,3.0,Other,False,False,Dealer
+Jaguar,XJ,Sedan,182000,12500,2012.0,BE,Used,Diesel,Rear Wheel Drive,Automatic,275,2993.0,5.0,4.0,Full leather,True,True,Dealer
+Lexus,NX 350h,Off-Road/Pick-up,46310,49900,2023.0,IT,Used,Electric/Gasoline,Front Wheel Drive,Automatic,190,2487.0,5.0,5.0,Full leather,True,True,Dealer
+Citroen,C5 Aircross,Off-Road/Pick-up,120715,11790,2021.0,IT,Used,Diesel,Front Wheel Drive,Manual,131,1499.0,5.0,5.0,Part leather,False,True,Dealer
+Opel,Meriva,Van,202142,3249,2012.0,NL,Used,Gasoline,Front Wheel Drive,Manual,141,1364.0,5.0,5.0,Part leather,True,False,Dealer
+Porsche,997,Coupe,53822,84950,2009.0,BE,Used,Gasoline,Rear Wheel Drive,Automatic,385,3800.0,4.0,2.0,Full leather,True,True,Dealer
+Dodge,Caliber,Sedan,229620,2500,2008.0,IT,Used,Diesel,Front Wheel Drive,Manual,140,1968.0,5.0,5.0,Full leather,False,False,Dealer
+Maserati,Ghibli,Sedan,94000,33500,2018.0,IT,Used,Diesel,Rear Wheel Drive,Automatic,275,2987.0,5.0,4.0,Full leather,False,True,Dealer
+BMW,320,Sedan,259500,6490,2011.0,DE,Used,Diesel,Front Wheel Drive,Automatic,184,1995.0,5.0,5.0,Cloth,False,True,Dealer
+smart,forTwo,Compact,22,58888,2019.0,DE,Used,Gasoline,Rear Wheel Drive,Automatic,121,898.0,2.0,3.0,Cloth,False,True,Dealer
+Skoda,Octavia,Sedan,52101,32490,2023.0,LU,Used,Diesel,4WD,Automatic,200,1968.0,5.0,5.0,Part leather,True,True,Dealer
+Opel,Corsa,Sedan,5912,18990,2025.0,BE,Used,Gasoline,Front Wheel Drive,Automatic,101,1199.0,5.0,5.0,Part leather,False,False,Dealer
+Fiat,Punto,Sedan,118410,5500,2013.0,IT,Used,Diesel,Front Wheel Drive,Manual,95,1248.0,5.0,3.0,Cloth,True,True,Dealer
+Fiat,500C,Compact,124000,5490,2010.0,DE,Used,Gasoline,Front Wheel Drive,Manual,86,875.0,4.0,2.0,Cloth,False,False,Dealer
+smart,forFour,Sedan,83500,9999,2016.0,DE,Used,Gasoline,Rear Wheel Drive,Manual,90,898.0,4.0,5.0,Full leather,False,False,Dealer
+Citroen,C3 Aircross,Off-Road/Pick-up,45740,10900,2018.0,DE,Used,Gasoline,Front Wheel Drive,Manual,110,1199.0,5.0,5.0,Cloth,True,True,Dealer
+BMW,i5,Station wagon,5516,82990,2025.0,BE,Used,Electric,4WD,Automatic,601,1598.0,5.0,5.0,Full leather,True,True,Dealer
+Mazda,CX-5,Off-Road/Pick-up,107505,23650,2022.0,IT,Used,Diesel,Front Wheel Drive,Automatic,184,1598.0,5.0,5.0,Cloth,True,False,Dealer
+Volvo,XC90,Off-Road/Pick-up,128834,36500,2021.0,DE,Used,Electric/Gasoline,4WD,Automatic,303,1969.0,7.0,5.0,Full leather,True,True,Dealer
+Hyundai,SANTA FE,Off-Road/Pick-up,14673,37690,2023.0,DE,Used,Electric/Gasoline,4WD,Automatic,230,1598.0,5.0,5.0,Full leather,True,True,Dealer
+Corvette,C7,Convertible,80900,49890,2014.0,DE,Used,Gasoline,Rear Wheel Drive,Automatic,466,6162.0,2.0,2.0,Part leather,False,True,Dealer
+Fiat,Panda,Sedan,201000,2400,2005.0,IT,Used,Gasoline,Front Wheel Drive,Manual,54,1108.0,4.0,5.0,Cloth,True,False,Dealer
+Fiat,Panda,Compact,2,14339,2025.0,BE,Used,Gasoline,Front Wheel Drive,Manual,69,999.0,4.0,3.0,Cloth,False,True,Dealer
+Audi,A4,Station wagon,100493,9950,2010.0,NL,Used,Gasoline,Front Wheel Drive,Automatic,179,1984.0,5.0,5.0,Cloth,True,False,Dealer
+Bentley,Flying Spur,Sedan,15000,55490,2006.0,,Used,Gasoline,Front Wheel Drive,Automatic,559,5998.0,4.0,4.0,Cloth,False,False,PrivateSeller
+Honda,Jazz,Sedan,181291,1390,2006.0,DE,Used,Gasoline,Front Wheel Drive,Manual,83,1339.0,5.0,5.0,Cloth,False,True,Dealer
+Bentley,Continental GTC,Convertible,112200,84000,2011.0,,Used,Gasoline,4WD,Automatic,630,6000.0,4.0,5.0,Part leather,True,True,PrivateSeller
+Renault,Arkana,Off-Road/Pick-up,42655,21990,2022.0,DE,Used,Gasoline,Front Wheel Drive,Automatic,158,1332.0,5.0,5.0,Full leather,True,True,Dealer
+Mazda,6,Station wagon,177216,11990,2014.0,DE,Used,Gasoline,Front Wheel Drive,Automatic,192,2488.0,5.0,5.0,Cloth,False,True,Dealer
+Corvette,C4,Coupe,54900,27900,1988.0,,Used,Gasoline,Rear Wheel Drive,Automatic,250,5700.0,2.0,2.0,Full leather,True,False,PrivateSeller
+BMW,216,Van,185888,7499,2015.0,BE,Used,Diesel,Front Wheel Drive,Manual,116,1496.0,5.0,5.0,Cloth,False,True,Dealer
+Renault,R 5,Sedan,0,15400,2020.0,IT,New,Electric,Front Wheel Drive,Automatic,122,1598.0,5.0,5.0,Cloth,False,False,Dealer
+Mitsubishi,Outlander,Off-Road/Pick-up,10,46950,2020.0,DE,New,Electric/Gasoline,4WD,Automatic,306,2360.0,5.0,5.0,Cloth,True,True,Dealer
+BYD,Atto 3,Off-Road/Pick-up,20718,27950,2023.0,BE,Used,Electric,Front Wheel Drive,Automatic,205,1.0,5.0,5.0,Full leather,True,True,Dealer
+Land Rover,Defender,Station wagon,88001,69900,2024.0,IT,Used,Electric/Diesel,4WD,Automatic,249,2996.0,8.0,5.0,Other,False,False,Dealer
+Abarth,595,Compact,43500,18900,2020.0,,Used,Gasoline,Front Wheel Drive,Manual,160,1368.0,4.0,3.0,Cloth,True,True,PrivateSeller
+Renault,Kangoo,Van,301868,2425,2006.0,NL,Used,Gasoline,Front Wheel Drive,Manual,95,1598.0,5.0,5.0,Cloth,False,False,Dealer
+Peugeot,208,Sedan,29580,13900,2023.0,IT,Used,Gasoline,Front Wheel Drive,Automatic,101,1199.0,5.0,5.0,Cloth,False,False,Dealer
+Dacia,Spring,Sedan,14248,12590,2023.0,DE,Used,Electric,Front Wheel Drive,Automatic,65,1598.0,4.0,5.0,Full leather,False,True,Dealer
+Aston Martin,Rapide,Sedan,140000,43000,2012.0,ES,Used,Gasoline,Front Wheel Drive,Automatic,476,1598.0,4.0,5.0,Cloth,False,False,Dealer
+Mazda,CX-3,Off-Road/Pick-up,99217,15790,2016.0,DE,Used,Gasoline,4WD,Automatic,150,1998.0,5.0,5.0,Part leather,True,True,Dealer
+Honda,Jazz,Van,102571,14900,2021.0,IT,Used,Electric/Gasoline,Front Wheel Drive,Automatic,98,1498.0,5.0,5.0,Part leather,False,False,Dealer
+MINI,Cooper D,Sedan,232329,4000,2007.0,IT,Used,Diesel,Front Wheel Drive,Manual,109,1560.0,4.0,3.0,Other,False,False,Dealer
+Alfa Romeo,Giulia,Sedan,17610,43150,2024.0,IT,Used,Diesel,Front Wheel Drive,Automatic,209,2143.0,5.0,4.0,Other,False,False,Dealer
+Lexus,UX 250h,Off-Road/Pick-up,88764,17999,2020.0,IT,Used,Electric/Gasoline,Front Wheel Drive,Automatic,152,1987.0,5.0,5.0,alcantara,False,True,Dealer
+smart,forTwo,Compact,156377,4990,2013.0,DE,Used,Gasoline,Rear Wheel Drive,Automatic,71,999.0,2.0,3.0,Cloth,False,False,Dealer
+Peugeot,2008,Off-Road/Pick-up,49730,10990,2016.0,NL,Used,Gasoline,Front Wheel Drive,Automatic,110,1199.0,5.0,5.0,Cloth,False,False,Dealer
+Abarth,500,Compact,64842,13400,2016.0,DE,Used,Gasoline,Front Wheel Drive,Automatic,160,1598.0,4.0,3.0,Full leather,True,True,Dealer
+Abarth,595 Turismo,Sedan,65995,15500,2020.0,IT,Used,Gasoline,Front Wheel Drive,Semi-automatic,165,1368.0,4.0,3.0,Cloth,True,False,Dealer
+CUPRA,Leon,Sedan,4000,35490,2025.0,AT,Used,Gasoline,Front Wheel Drive,Automatic,150,1498.0,5.0,5.0,Cloth,True,False,Dealer
+Suzuki,Swift,Sedan,100000,7450,2015.0,DE,Used,Gasoline,Front Wheel Drive,Manual,94,1242.0,5.0,5.0,alcantara,True,True,Dealer
+Lancia,Ypsilon,Sedan,19515,17932,2025.0,IT,Used,Electric/Gasoline,Front Wheel Drive,Automatic,101,1199.0,5.0,5.0,Part leather,False,True,Dealer
+Mercedes-Benz,A 45 AMG,Compact,164378,21240,2014.0,NL,Used,Gasoline,4WD,Automatic,360,1991.0,5.0,5.0,Full leather,True,False,Dealer
+Maserati,Levante,Off-Road/Pick-up,126000,57900,2020.0,IT,Used,Gasoline,4WD,Automatic,581,3799.0,5.0,5.0,Full leather,True,False,Dealer
+Mitsubishi,Montero,Off-Road/Pick-up,278148,5500,2000.0,ES,Used,Diesel,Front Wheel Drive,Manual,101,1598.0,5.0,3.0,Cloth,False,False,Dealer
+Opel,Frontera,Off-Road/Pick-up,10,20770,2025.0,DE,Used,Gasoline,Front Wheel Drive,Automatic,101,1199.0,5.0,5.0,Cloth,True,True,Dealer
+Kia,ProCeed / pro_cee'd,Coupe,37242,29950,2023.0,BE,Used,Gasoline,Front Wheel Drive,Automatic,204,1591.0,5.0,5.0,Part leather,True,True,Dealer
+Jaguar,F-Pace,Off-Road/Pick-up,103800,25900,2021.0,IT,Used,Electric/Diesel,4WD,Automatic,163,1997.0,5.0,5.0,Full leather,True,False,Dealer
+Volkswagen,Golf,Compact,231499,7449,2017.0,NL,Used,Gasoline,Front Wheel Drive,Manual,116,999.0,5.0,5.0,Cloth,False,False,Dealer
+Land Rover,Range Rover Evoque,Off-Road/Pick-up,100000,19990,2017.0,DE,Used,Diesel,4WD,Automatic,179,1999.0,5.0,5.0,Full leather,False,True,Dealer
+Hyundai,i20,Sedan,88997,14950,2021.0,DE,Used,Gasoline,Front Wheel Drive,Automatic,120,998.0,5.0,4.0,Cloth,True,False,Dealer
+Chevrolet,Camaro,Convertible,113016,17980,2015.0,FR,Used,Gasoline,Front Wheel Drive,Automatic,328,3600.0,4.0,4.0,Full leather,True,True,Dealer
+Jaguar,F-Type,Coupe,9500,55900,2023.0,IT,Used,Gasoline,Rear Wheel Drive,Automatic,300,1997.0,2.0,2.0,Part leather,True,False,Dealer
+Peugeot,308,Station wagon,44153,19990,2023.0,BE,Used,Gasoline,Front Wheel Drive,Automatic,131,1199.0,5.0,5.0,Part leather,False,True,Dealer
+Skoda,Karoq,Off-Road/Pick-up,72960,22760,2021.0,DE,Used,Diesel,Front Wheel Drive,Manual,150,1968.0,5.0,5.0,Cloth,True,True,Dealer
+Dacia,Spring,Compact,15761,11980,2023.0,DE,Used,Electric,Front Wheel Drive,Automatic,45,1598.0,4.0,5.0,Cloth,False,True,Dealer
+Nissan,Qashqai,Off-Road/Pick-up,81391,13990,2016.0,DE,Used,Gasoline,Front Wheel Drive,Manual,116,1197.0,5.0,5.0,Cloth,False,True,Dealer
+Porsche,Macan,Off-Road/Pick-up,12122,76900,2025.0,DE,Used,Electric,Rear Wheel Drive,Automatic,360,1598.0,5.0,4.0,Other,True,True,Dealer
+Alfa Romeo,Stelvio,Off-Road/Pick-up,83686,35400,2021.0,IT,Used,Diesel,4WD,Automatic,209,2143.0,5.0,5.0,Cloth,False,False,Dealer
+Alfa Romeo,Stelvio,Off-Road/Pick-up,38269,35300,2023.0,IT,Used,Gasoline,4WD,Automatic,280,1995.0,5.0,5.0,Full leather,False,False,Dealer
+Kia,Sorento,Off-Road/Pick-up,144085,17900,2016.0,DE,Used,Diesel,4WD,Automatic,200,2199.0,5.0,5.0,Full leather,True,True,Dealer
+Jaguar,XJ6,Sedan,265000,5980,1997.0,DE,Used,Gasoline,Front Wheel Drive,Automatic,241,3980.0,5.0,4.0,Full leather,False,False,Dealer
+Audi,SQ5,Off-Road/Pick-up,194000,17499,2013.0,BE,Used,Diesel,Front Wheel Drive,Automatic,313,2967.0,5.0,5.0,Part leather,True,False,Dealer
+Jeep,Renegade,Off-Road/Pick-up,144000,12900,2021.0,IT,Used,Electric/Gasoline,4WD,Automatic,179,1332.0,5.0,5.0,Cloth,False,False,Dealer
+Bentley,Continental GT,Coupe,111000,59500,2012.0,,Used,Gasoline,4WD,Automatic,575,6000.0,4.0,2.0,Full leather,False,True,PrivateSeller
+Maserati,Quattroporte,Sedan,39242,54950,2014.0,NL,Used,Gasoline,Rear Wheel Drive,Automatic,530,3799.0,5.0,4.0,Full leather,True,True,Dealer
+SEAT,Ateca,Off-Road/Pick-up,10,34980,2024.0,DE,Used,Diesel,Front Wheel Drive,Automatic,150,1968.0,5.0,5.0,alcantara,True,True,Dealer
+Peugeot,308,Sedan,147179,12840,2017.0,DE,Used,Gasoline,Front Wheel Drive,Manual,272,1598.0,5.0,4.0,alcantara,True,True,Dealer
+Maserati,Ghibli,Sedan,119500,27480,2014.0,FR,Used,Diesel,Front Wheel Drive,Automatic,276,1598.0,5.0,4.0,Cloth,False,True,Dealer
+Volvo,S90,Sedan,25797,41249,2025.0,DE,Used,Electric/Gasoline,4WD,Automatic,455,1969.0,5.0,4.0,Full leather,True,False,Dealer
+Jaguar,XE,Sedan,193000,11490,2017.0,FR,Used,Diesel,Front Wheel Drive,Automatic,163,1999.0,5.0,4.0,Cloth,False,False,Dealer
+Dacia,Sandero,Sedan,18478,13900,2024.0,IT,Used,Gasoline,Front Wheel Drive,Automatic,91,999.0,5.0,5.0,Other,False,False,Dealer
+Kia,EV6,Off-Road/Pick-up,22000,27990,2023.0,ES,Used,Electric,Rear Wheel Drive,Automatic,228,1598.0,5.0,5.0,Cloth,False,False,Dealer
+smart,forFour,Sedan,171000,2199,2006.0,DE,Used,Gasoline,Front Wheel Drive,Manual,95,1332.0,4.0,4.0,Cloth,False,False,Dealer
+Chevrolet,Corvette,Convertible,89411,23000,2005.0,,Used,Gasoline,Front Wheel Drive,Automatic,404,1598.0,5.0,2.0,Cloth,False,False,PrivateSeller
+Bentley,Continental,Coupe,110000,45000,2006.0,BE,Used,Gasoline,Rear Wheel Drive,Automatic,560,5998.0,4.0,2.0,Full leather,True,True,Dealer
+BMW,520,Sedan,150000,24450,2019.0,DE,Used,Diesel,4WD,Automatic,190,1995.0,5.0,4.0,alcantara,True,True,Dealer
+Volvo,S90,Sedan,142500,22990,2018.0,ES,Used,Diesel,Front Wheel Drive,Automatic,190,1969.0,5.0,4.0,Cloth,False,False,Dealer
+Toyota,RAV 4,Off-Road/Pick-up,140300,25900,2021.0,AT,Used,Electric/Gasoline,Front Wheel Drive,Automatic,178,2487.0,5.0,5.0,Cloth,False,False,Dealer
+Honda,Civic,Sedan,155000,4900,2011.0,DE,Used,Gasoline,Front Wheel Drive,Manual,99,1339.0,5.0,4.0,Cloth,True,False,Dealer
+Volkswagen,Tiguan,Off-Road/Pick-up,115989,10950,2012.0,NL,Used,Gasoline,Front Wheel Drive,Manual,160,1390.0,5.0,5.0,Velour,True,False,Dealer
+Bentley,Continental GT,Coupe,103226,67740,2011.0,NL,Used,Gasoline,4WD,Automatic,630,5998.0,4.0,2.0,Part leather,True,False,Dealer
+Toyota,RAV 4,Off-Road/Pick-up,64088,28888,2020.0,DE,Used,Electric/Gasoline,Front Wheel Drive,Automatic,178,2487.0,5.0,5.0,Cloth,True,False,Dealer
+Honda,Civic,Sedan,10,37080,2020.0,LU,New,Electric/Gasoline,Front Wheel Drive,Automatic,184,1993.0,5.0,5.0,Other,False,False,Dealer
+Ford,Focus,Compact,98966,21990,2016.0,NL,Used,Gasoline,Front Wheel Drive,Manual,252,1999.0,5.0,5.0,Part leather,True,False,Dealer
+Audi,Q7,Off-Road/Pick-up,87000,59950,2023.0,BE,Used,Diesel,4WD,Automatic,286,2967.0,5.0,5.0,Full leather,False,False,Dealer
+MINI,One,Other,69800,19490,2021.0,IT,Used,Gasoline,Front Wheel Drive,Automatic,102,1499.0,4.0,3.0,Part leather,True,True,Dealer
+Tesla,Model Y,Off-Road/Pick-up,45349,36500,2023.0,BE,Used,Electric,4WD,Automatic,534,1968.0,5.0,5.0,Full leather,False,False,Dealer
+Corvette,C6 Convertible,Coupe,105000,63000,2008.0,,Used,Gasoline,Rear Wheel Drive,Manual,551,1598.0,2.0,3.0,Cloth,False,False,PrivateSeller
+SEAT,Leon,Compact,169728,16440,2016.0,NL,Used,Gasoline,Front Wheel Drive,Automatic,265,1984.0,5.0,5.0,Part leather,True,False,Dealer
+Porsche,Panamera,Sedan,138700,30900,2010.0,IT,Used,Gasoline,4WD,Automatic,300,3605.0,4.0,5.0,Full leather,True,True,Dealer
+Renault,Espace,Van,72494,29480,2021.0,DE,Used,Diesel,Front Wheel Drive,Automatic,189,1997.0,5.0,5.0,Full leather,False,False,Dealer
+Lexus,RC 300h,Coupe,100388,29990,2016.0,NL,Used,Electric/Gasoline,Rear Wheel Drive,Automatic,181,2494.0,4.0,2.0,Full leather,True,False,Dealer
+Skoda,Scala,Sedan,69578,14890,2020.0,DE,Used,Gasoline,Front Wheel Drive,Manual,95,1598.0,5.0,5.0,Part leather,True,True,Dealer
+Dacia,Bigster,Off-Road/Pick-up,1,22495,2020.0,DE,New,LPG,Front Wheel Drive,Manual,140,1199.0,5.0,5.0,Cloth,False,False,Dealer
+Opel,Astra,Station wagon,68220,13990,2020.0,DE,Used,Gasoline,Front Wheel Drive,Automatic,145,1598.0,5.0,5.0,Cloth,True,False,Dealer
+Mazda,6,Station wagon,170000,9500,2016.0,IT,Used,Diesel,Front Wheel Drive,Manual,175,2191.0,5.0,5.0,Cloth,False,False,Dealer
+Jaguar,XF,Station wagon,284000,2500,2013.0,,Used,Diesel,Front Wheel Drive,Automatic,163,2179.0,5.0,4.0,Cloth,False,False,PrivateSeller
+smart,#3,Off-Road/Pick-up,8304,41777,2024.0,DE,Used,Electric,4WD,Automatic,428,1598.0,5.0,5.0,Part leather,True,True,Dealer
+Kia,Rio,Compact,150935,4943,2014.0,NL,Used,Gasoline,Front Wheel Drive,Manual,86,1248.0,5.0,3.0,Cloth,True,False,Dealer
+BYD,Han,Sedan,26700,46000,2024.0,,Used,Electric,4WD,Automatic,517,1598.0,5.0,4.0,Full leather,True,False,PrivateSeller
+MG,ZS,Off-Road/Pick-up,32473,14990,2021.0,AT,Used,Electric,Front Wheel Drive,Automatic,143,1598.0,5.0,5.0,Full leather,True,True,Dealer
+smart,forTwo,Compact,140243,7300,2015.0,IT,Used,Gasoline,Rear Wheel Drive,Manual,71,999.0,2.0,2.0,Cloth,False,False,Dealer
+Ford,Kuga,Off-Road/Pick-up,135000,9890,2015.0,IT,Used,Gasoline,Front Wheel Drive,Manual,150,1499.0,5.0,5.0,Part leather,False,False,Dealer
+Alfa Romeo,Tonale,Off-Road/Pick-up,20460,28990,2023.0,IT,Used,Diesel,Front Wheel Drive,Semi-automatic,131,1598.0,5.0,5.0,Other,False,True,Dealer
+BMW,225,Van,21902,19848,2021.0,DE,Used,Electric/Gasoline,4WD,Automatic,220,1499.0,5.0,5.0,Cloth,False,False,Dealer
+Nissan,X-Trail,Off-Road/Pick-up,180960,11800,2017.0,IT,Used,Diesel,4WD,Manual,131,1598.0,5.0,5.0,Cloth,False,True,Dealer
+Fiat,Qubo,Van,235389,3500,2013.0,IT,Used,Gasoline,Front Wheel Drive,Manual,77,1360.0,5.0,5.0,Cloth,False,False,Dealer
+Lancia,Ypsilon,Compact,150795,2249,2010.0,NL,Used,Gasoline,Front Wheel Drive,Manual,60,1242.0,5.0,3.0,Cloth,False,False,Dealer
+Opel,Corsa,Sedan,205,18495,2025.0,DE,Used,Gasoline,Front Wheel Drive,Automatic,101,1199.0,5.0,5.0,Part leather,True,True,Dealer
+smart,forFour,Sedan,28392,9990,2020.0,DE,Used,Electric,Front Wheel Drive,Automatic,82,1598.0,4.0,5.0,Cloth,False,True,Dealer
+Toyota,Yaris,Compact,97700,11290,2015.0,DE,Used,Electric/Gasoline,Front Wheel Drive,Automatic,101,1497.0,5.0,5.0,Cloth,False,True,Dealer
+Renault,Clio,Sedan,30768,13900,2024.0,IT,Used,Gasoline,Front Wheel Drive,Manual,91,999.0,5.0,5.0,Other,False,False,Dealer
+Maserati,Ghibli,Sedan,109000,39900,2021.0,IT,Used,Gasoline,4WD,Automatic,430,2979.0,5.0,4.0,Full leather,True,True,Dealer
+Land Rover,Range Rover Evoque,Off-Road/Pick-up,149000,15997,2016.0,AT,Used,Diesel,4WD,Automatic,150,1999.0,5.0,5.0,Cloth,False,False,Dealer
+Opel,Corsa-e,Sedan,48747,11650,2021.0,IT,Used,Electric,Front Wheel Drive,Automatic,77,1598.0,5.0,5.0,Other,True,False,Dealer
+Alfa Romeo,Tonale,Off-Road/Pick-up,10,36400,2025.0,IT,Used,Electric/Gasoline,Front Wheel Drive,Automatic,160,1598.0,5.0,5.0,Part leather,False,False,Dealer
+Lancia,Ypsilon,Sedan,80000,2900,2004.0,IT,Used,Gasoline,Front Wheel Drive,Manual,95,1368.0,4.0,3.0,Cloth,False,False,Dealer
+MG,MG4,Sedan,3085,29780,2024.0,DE,Used,Electric,4WD,Automatic,435,1598.0,5.0,5.0,alcantara,True,True,Dealer
+Volkswagen,Polo,Sedan,187700,4999,2008.0,DE,Used,Gasoline,Front Wheel Drive,Manual,150,1781.0,5.0,4.0,Cloth,True,True,Dealer
+Lancia,Ypsilon,Sedan,67806,11900,2022.0,IT,Used,Electric/Gasoline,Front Wheel Drive,Manual,69,999.0,5.0,5.0,Cloth,False,False,Dealer
+SEAT,Leon,Station wagon,121195,14490,2022.0,DE,Used,Diesel,Front Wheel Drive,Manual,116,1968.0,5.0,5.0,Cloth,True,True,Dealer
+Nissan,Qashqai+2,Off-Road/Pick-up,126600,9890,2012.0,DE,Used,Diesel,Front Wheel Drive,Manual,131,1598.0,7.0,4.0,Cloth,True,True,Dealer
+MG,MG4,Compact,93,24940,2025.0,NL,Used,Electric,Rear Wheel Drive,Automatic,170,1598.0,5.0,5.0,Cloth,True,False,Dealer
+Audi,A3,Compact,141999,12450,2013.0,NL,Used,Gasoline,Front Wheel Drive,Manual,122,1395.0,5.0,5.0,Cloth,False,False,Dealer
+Ford,Puma,Off-Road/Pick-up,0,31280,2020.0,DE,New,Gasoline,Front Wheel Drive,Automatic,159,999.0,5.0,4.0,Part leather,False,True,Dealer
+BMW,225,Compact,98436,14990,2016.0,BE,Used,Electric/Gasoline,4WD,Automatic,136,1499.0,5.0,5.0,Full leather,True,False,Dealer
+Ford,Kuga,Off-Road/Pick-up,59000,24990,2022.0,DE,Used,Diesel,4WD,Automatic,190,1995.0,5.0,4.0,Part leather,True,True,Dealer
+Mazda,3,Sedan,103828,16990,2021.0,IT,Used,Electric/Gasoline,Front Wheel Drive,Manual,150,1998.0,5.0,5.0,Cloth,False,False,Dealer
+Mercedes-Benz,E 200,Station wagon,187569,12990,2013.0,BE,Used,Diesel,Rear Wheel Drive,Automatic,136,2143.0,5.0,5.0,Full leather,False,False,Dealer
+Peugeot,208,Compact,10641,18900,2024.0,NL,Used,Gasoline,Front Wheel Drive,Manual,101,1199.0,5.0,5.0,Cloth,False,False,Dealer
+Jaguar,F-Type,Coupe,48000,62900,2017.0,DE,Used,Gasoline,4WD,Automatic,575,5000.0,2.0,2.0,Full leather,False,True,Dealer
+Lexus,ES 300,Sedan,107000,16700,2013.0,,Used,Electric/Gasoline,Rear Wheel Drive,Automatic,181,2491.0,5.0,4.0,Part leather,True,True,PrivateSeller
+Land Rover,Range Rover Evoque,Off-Road/Pick-up,74000,26000,2019.0,IT,Used,Electric/Gasoline,Front Wheel Drive,Automatic,200,1999.0,5.0,5.0,Full leather,True,True,Dealer
+Kia,Ceed SW / cee'd SW,Station wagon,300,23850,2025.0,DE,Used,Gasoline,Front Wheel Drive,Automatic,140,1482.0,5.0,5.0,Cloth,True,False,Dealer
+Dacia,Spring,Sedan,10058,12680,2023.0,DE,Used,Electric,Front Wheel Drive,Automatic,65,1598.0,4.0,5.0,Other,False,False,Dealer
+Audi,Q5,Off-Road/Pick-up,64314,33980,2022.0,DE,Used,Diesel,4WD,Automatic,204,1968.0,5.0,5.0,Cloth,False,True,Dealer
+Jaguar,I-Pace,Off-Road/Pick-up,23248,26950,2020.0,NL,Used,Electric,4WD,Automatic,321,1598.0,5.0,5.0,Cloth,False,False,Dealer
+Opel,Corsa,Compact,22200,19800,2025.0,DE,Used,Gasoline,Front Wheel Drive,Automatic,101,1199.0,5.0,5.0,Cloth,True,True,Dealer
+Jaguar,XK,Coupe,47900,69500,1958.0,DE,Used,Gasoline,Rear Wheel Drive,Manual,209,3400.0,4.0,2.0,Full leather,False,True,Dealer
+SEAT,Leon,Compact,102214,19950,2021.0,NL,Used,Electric/Gasoline,Front Wheel Drive,Automatic,150,1395.0,5.0,5.0,Part leather,True,False,Dealer
+Bentley,Continental GTC,Convertible,118432,43999,2007.0,DE,Used,Gasoline,4WD,Automatic,560,5998.0,4.0,2.0,Full leather,True,True,Dealer
+MG,MG4,Sedan,5,20970,2025.0,DE,Used,Electric,Rear Wheel Drive,Automatic,170,1598.0,5.0,5.0,Cloth,True,True,Dealer
+Opel,Insignia,Station wagon,178626,12750,2019.0,DE,Used,Diesel,4WD,Automatic,209,1956.0,5.0,5.0,Full leather,True,True,Dealer
+Land Rover,Range Rover,Off-Road/Pick-up,180618,25990,2016.0,DE,Used,Diesel,4WD,Automatic,250,2993.0,5.0,4.0,Full leather,True,True,Dealer
+Porsche,Macan,Off-Road/Pick-up,72999,72920,2022.0,DE,Used,Gasoline,4WD,Automatic,441,2894.0,5.0,4.0,Full leather,True,True,Dealer
+Jeep,Compass,Off-Road/Pick-up,37748,25650,2022.0,DE,Used,Electric/Gasoline,4WD,Automatic,241,1332.0,5.0,5.0,Full leather,False,False,Dealer
+Alfa Romeo,Stelvio,Off-Road/Pick-up,70382,20590,2018.0,IT,Used,Diesel,4WD,Automatic,209,2143.0,5.0,5.0,Cloth,False,True,Dealer
+Audi,A7,Coupe,122000,38999,2020.0,BE,Used,Electric/Gasoline,4WD,Automatic,367,1984.0,4.0,5.0,Cloth,False,False,Dealer
+smart,forFour,Compact,18409,12690,2018.0,DE,Used,Gasoline,Rear Wheel Drive,Automatic,71,999.0,4.0,5.0,Cloth,False,True,Dealer
+Mercedes-Benz,C 180,Sedan,67000,11499,2007.0,DE,Used,Gasoline,Rear Wheel Drive,Automatic,156,1598.0,5.0,4.0,Full leather,True,True,Dealer
+Jaguar,E-Pace,Off-Road/Pick-up,59000,29890,2021.0,AT,Used,Electric/Diesel,4WD,Automatic,163,1999.0,5.0,5.0,Full leather,True,True,Dealer
+Kia,Rio,Sedan,18990,14900,2023.0,DE,Used,Gasoline,Front Wheel Drive,Automatic,101,998.0,5.0,5.0,Cloth,False,True,Dealer
+Tesla,Model 3,Sedan,4100,40000,2025.0,,Used,Electric,Front Wheel Drive,Automatic,208,1598.0,5.0,4.0,Cloth,False,False,PrivateSeller
+Nissan,X-Trail,Off-Road/Pick-up,50,38130,2025.0,DE,Used,Gasoline,4WD,Automatic,213,1498.0,5.0,4.0,Cloth,True,True,Dealer
+Volkswagen,Arteon,Station wagon,78760,24900,2023.0,DE,Used,Diesel,Front Wheel Drive,Automatic,150,1968.0,5.0,5.0,Cloth,True,True,Dealer
+Lexus,IS 220d,Sedan,250000,2499,2010.0,,Used,Diesel,Front Wheel Drive,Manual,177,2231.0,5.0,4.0,Cloth,False,False,PrivateSeller
+Alfa Romeo,Tonale,Off-Road/Pick-up,53169,29500,2023.0,IT,Used,Diesel,Front Wheel Drive,Automatic,131,1598.0,5.0,5.0,Other,False,False,Dealer
+Land Rover,Range Rover Velar,Station wagon,133393,28900,2018.0,IT,Used,Diesel,4WD,Automatic,300,2993.0,5.0,5.0,Full leather,False,False,Dealer
+Toyota,Proace City,Van,20572,21900,2023.0,IT,Used,Electric,Front Wheel Drive,Automatic,136,1598.0,7.0,5.0,Cloth,False,False,Dealer
+Kia,Ceed / cee'd,Sedan,9999,29990,2025.0,BE,Used,Gasoline,Front Wheel Drive,Automatic,140,1482.0,5.0,5.0,Cloth,False,False,Dealer
+Chevrolet,Matiz,Sedan,116000,2999,2008.0,DE,Used,Gasoline,Front Wheel Drive,Automatic,52,796.0,5.0,4.0,Cloth,True,True,Dealer
+Chevrolet,Epica,Sedan,154000,2850,2010.0,ES,Used,Diesel,Front Wheel Drive,Manual,150,1991.0,5.0,4.0,Cloth,False,False,Dealer
+Maserati,Spyder,Convertible,30230,36900,2002.0,DE,Used,Gasoline,Front Wheel Drive,Automatic,390,4244.0,2.0,2.0,Full leather,True,True,Dealer
+Hyundai,KONA,Off-Road/Pick-up,160635,12888,2019.0,DE,Used,Diesel,Front Wheel Drive,Automatic,136,1598.0,5.0,4.0,Full leather,False,False,Dealer
+Peugeot,2008,Off-Road/Pick-up,55577,14990,2021.0,IT,Used,Electric,Front Wheel Drive,Automatic,77,1598.0,5.0,5.0,Other,True,False,Dealer
+Tesla,Model 3,Compact,164846,18440,2019.0,NL,Used,Electric,Rear Wheel Drive,Automatic,287,1598.0,5.0,5.0,Cloth,False,False,Dealer
+Ford,C-Max,Van,158121,7290,2015.0,DE,Used,Diesel,Front Wheel Drive,Manual,120,1499.0,5.0,4.0,Cloth,False,False,Dealer
+Rolls-Royce,Silver Wraith,Station wagon,10999,109950,1954.0,NL,Used,Gasoline,Front Wheel Drive,Automatic,170,4500.0,5.0,4.0,Cloth,False,False,Dealer
+Alfa Romeo,Junior,Off-Road/Pick-up,13,27890,2025.0,IT,Used,Electric/Gasoline,Front Wheel Drive,Automatic,136,1199.0,5.0,5.0,Part leather,False,False,Dealer
+SEAT,Alhambra,Van,76837,19090,2018.0,AT,Used,Diesel,Front Wheel Drive,Manual,150,1968.0,5.0,5.0,Cloth,False,False,Dealer
+Toyota,RAV 4,Off-Road/Pick-up,82000,22490,2019.0,DE,Used,Electric/Gasoline,Front Wheel Drive,Automatic,197,2494.0,5.0,5.0,Cloth,True,True,Dealer
+MG,ZS,Off-Road/Pick-up,93000,11900,2022.0,IT,Used,Gasoline,Front Wheel Drive,Manual,106,1498.0,5.0,5.0,Cloth,True,True,Dealer
+MG,MG3,Sedan,0,13790,2020.0,IT,New,Gasoline,Front Wheel Drive,Manual,116,1495.0,5.0,5.0,Cloth,False,False,Dealer
+Suzuki,SX4,Off-Road/Pick-up,167000,3900,2009.0,DE,Used,Gasoline,4WD,Manual,107,1586.0,5.0,5.0,Cloth,True,True,Dealer
+BYD,Dolphin,Compact,10,24980,2020.0,DE,New,Electric,Front Wheel Drive,Automatic,156,1598.0,4.0,5.0,Other,True,True,Dealer
+Jeep,Avenger,Off-Road/Pick-up,1,19500,2025.0,IT,Used,Gasoline,Front Wheel Drive,Manual,101,1199.0,5.0,5.0,Cloth,False,False,Dealer
+Audi,A4,Station wagon,296925,5600,2008.0,DE,Used,Diesel,Front Wheel Drive,Manual,143,1598.0,5.0,5.0,Cloth,True,True,Dealer
+CUPRA,Formentor,Off-Road/Pick-up,62000,35950,2022.0,DE,Used,Gasoline,4WD,Automatic,390,2480.0,5.0,5.0,Cloth,False,False,Dealer
